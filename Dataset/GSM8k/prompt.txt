@@ -1,0 +1,31 @@
+# Extracting Final Numerical Values from Answers and Generating a CSV
+
+## Task Overview
+This file contains multiple questions along with their respective answers. Each answer includes a final numerical result, which represents the correct solution.
+
+## Your Task
+1. Extract the final numerical value from each answer.
+2. Add a new column named `value` where this extracted number will be stored.
+3. Return the updated CSV file with the following structure:
+   - `question`: The original question.
+   - `answer`: The original answer.
+   - `value`: The final extracted numerical value.
+
+## Example
+
+### **Input JSON:**
+```json
+{
+  "question": "Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",
+  "answer": "Natalia sold 48/2 = <<48/2=24>>24 clips in May.\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\n#### 72"
+}
+
+### **Output JSON:**
+
+{
+  "question": "Natalia sold clips to 48 of her friends in April, and then she sold half as many clips in May. How many clips did Natalia sell altogether in April and May?",
+  "answer": "Natalia sold 48/2 = <<48/2=24>>24 clips in May.\nNatalia sold 48+24 = <<48+24=72>>72 clips altogether in April and May.\n#### 72",
+  "value": 72
+}
+
+
