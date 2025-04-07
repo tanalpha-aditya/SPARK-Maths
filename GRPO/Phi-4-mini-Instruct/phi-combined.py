@@ -9,21 +9,33 @@ from vllm import SamplingParams
 import wandb  # Import Weights & Biases
 from tqdm import tqdm  # Progress bar
 from typing import List, Dict, Union
+import torch._dynamo
+
+
 
 wandb.login(key="3109e45ecb4ed9dad85e22af19852af76198d140")  # Replace with *your* W&B API key
 WANDB_PROJECT = "Phi-GRPO-Combined"  # Changed project name
-MODEL_NAME = "unsloth/Phi-4-mini-instruct-unsloth-bnb-4bit"
+MODEL_NAME = "unsloth/Phi-3.5-mini-instruct"
 OUTPUT_DIR = "outputs"
 
-MAX_SEQ_LENGTH = 1024
-LORA_RANK = 16
+MAX_SEQ_LENGTH = 768
+LORA_RANK = 8
 MAX_PROMPT_LENGTH = 256
-NUM_GENERATIONS = 6  # Generations per prompt during training
+NUM_GENERATIONS = 2  # Generations per prompt during training
 BATCH_SIZE = 1
-GRADIENT_ACCUMULATION_STEPS = 8
-MAX_STEPS = 6000 # Increased steps, as combined dataset is larger
-SAVE_STEPS = 500
+GRADIENT_ACCUMULATION_STEPS = 1
+MAX_STEPS = 16000 # Increased steps, as combined dataset is larger
+SAVE_STEPS = 1000
 LEARNING_RATE = 5e-6
+SYSTEM_PROMPT = """
+Respond in the following format:
+<reasoning>
+...
+</reasoning>
+<answer>
+only integer answer without verbose
+</answer>
+"""
 
 # ------------------------------ Data Preparation ------------------------------
 
@@ -60,8 +72,8 @@ def get_gsm8k_questions(split="train") -> Dataset:
     data = data.map(
         lambda x: {
             # We *only* include the question as the prompt.  No system prompt.
-            "prompt": [
-                {"role": "system", "content": XML_COT_FORMAT.format(reasoning="", answer="")}, # System prompt
+             "prompt": [
+                {"role": "system", "content" : SYSTEM_PROMPT}, # System prompt
                 {"role": "user", "content": x["question"]}
             ],
             "answer": extract_hash_answer(x["answer"]),  # Use the helper function
@@ -83,7 +95,7 @@ def get_math500_questions(split="test") -> Dataset:
     data = data.map(
         lambda x: {
             "prompt": [
-                {"role": "system", "content": XML_COT_FORMAT.format(reasoning="", answer="")}, # System prompt
+                {"role": "system", "content" : SYSTEM_PROMPT}, # System prompt
                 {"role": "user", "content": x["problem"]}
             ],            
             "answer": x['answer'], #answer used as is no processing
@@ -274,9 +286,9 @@ def initialize_model():
         model_name=MODEL_NAME,
         max_seq_length=MAX_SEQ_LENGTH,
         load_in_4bit=True,
-        fast_inference=True,
+        fast_inference=False,
         max_lora_rank=LORA_RANK,
-        gpu_memory_utilization=0.9,
+        gpu_memory_utilization=0.2,
     )
 
     model = FastLanguageModel.get_peft_model(
@@ -295,6 +307,8 @@ def initialize_model():
         use_gradient_checkpointing="unsloth",
         random_state=3407,
     )
+    tokenizer.pad_token = tokenizer.eos_token
+    tokenizer.padding_side = "right"
     return model, tokenizer
 
 
@@ -341,6 +355,7 @@ def train(model, tokenizer, train_dataset, reward_functions):
 
 def main(test_dataset_path=None):
     torch.cuda.empty_cache()
+    torch._dynamo.config.suppress_errors = True
     wandb.init(project=WANDB_PROJECT, job_type="training")
 
     wandb.config.update(
