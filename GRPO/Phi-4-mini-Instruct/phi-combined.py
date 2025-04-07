@@ -15,7 +15,7 @@ import torch._dynamo
 
 wandb.login(key="3109e45ecb4ed9dad85e22af19852af76198d140")  # Replace with *your* W&B API key
 WANDB_PROJECT = "Phi-GRPO-Combined"  # Changed project name
-MODEL_NAME = "unsloth/Phi-3.5-mini-instruct"
+MODEL_NAME = "unsloth/Phi-4-mini-instruct"
 OUTPUT_DIR = "outputs"
 
 MAX_SEQ_LENGTH = 768
