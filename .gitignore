@@ -1,3 +1,5 @@
 .DS_Store
 GRPO/Qwen/Results/Outputs
 GRPO/Qwen/Results/wandb
+GRPO/Phi-4-mini-Instruct/checkpoint_8000
+GRPO/Phi-4-mini-Instruct/checkpoint-14000
