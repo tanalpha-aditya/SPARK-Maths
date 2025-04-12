@@ -1,0 +1,512 @@
+.
+├── ALM_Report
+│   ├── Baseline result.png
+│   ├── GSM8k.png
+│   ├── Qwen
+│   │   ├── completion_length.png
+│   │   ├── corr_reward.png
+│   │   ├── reasoning_length_reward.png
+│   │   └── train_loss.png
+│   ├── incomplete.png
+│   ├── main.aux
+│   ├── main.log
+│   ├── main.out
+│   ├── main.tex
+│   ├── math1.png
+│   ├── math2.png
+│   ├── phi
+│   │   ├── Baseline result
+│   │   ├── XML_Count_reward.png
+│   │   ├── completoin_length.png
+│   │   ├── correctness_reward.png
+│   │   ├── int_reward.png
+│   │   ├── learning_rate.png
+│   │   ├── length_reward.png
+│   │   ├── reasoning_length_reward.png
+│   │   ├── train_loss.png
+│   │   └── train_reward.png
+│   └── references.bib
+├── ALM_Report.zip
+├── Baseline
+│   ├── GPT4->Gemini
+│   │   ├── Failed attempts of GPT4
+│   │   │   ├── output.txt
+│   │   │   ├── output_gpt4.txt
+│   │   │   └── output_gpt4_math.txt
+│   │   ├── Progress_checkp
+│   │   │   ├── progress_checkpoint.txt
+│   │   │   ├── progress_checkpoint_math.txt
+│   │   │   └── progress_checkpoint_math_final.txt
+│   │   ├── Results
+│   │   │   ├── MATH
+│   │   │   │   ├── final_math_postprocessed.csv
+│   │   │   │   ├── output_dataset_with_answers_gemini.csv
+│   │   │   │   ├── output_gemini_math.csv
+│   │   │   │   └── output_gemini_math.txt
+│   │   │   ├── baseline_math.ipynb
+│   │   │   └── gsm8k
+│   │   │       └── output_gemini.txt
+│   │   └── cases
+│   │       ├── gemini-fixed.png
+│   │       └── gpt4_mistake.png
+│   ├── GSM8kOutput.rtf
+│   ├── Gsm8k_baseline_report.txt
+│   ├── MATH_final.txt
+│   ├── Phi-4-mini-instruct
+│   │   ├── Phi4 Baseline-checkpoint.ipynb
+│   │   ├── Phi4 Mini Instruct Baseline-checkpoint.ipynb
+│   │   └── Phi4 Mini Instruct GSM8K Baseline-checkpoint.ipynb
+│   ├── Phi4 Baseline.ipynb
+│   ├── Phi4 Mini Instruct Baseline.ipynb
+│   ├── Phi4 Mini Instruct GSM8K Baseline.ipynb
+│   ├── Qwen-Math
+│   │   ├── Final_Code
+│   │   │   ├── baseline_gsm8k_base.py
+│   │   │   └── baseline_math_base.py
+│   │   ├── Results
+│   │   │   ├── Gsm8k
+│   │   │   │   ├── checkpoint.json
+│   │   │   │   ├── output.txt
+│   │   │   │   └── stdout_qwen_gsm8k.txt
+│   │   │   ├── MATH
+│   │   │   │   ├── checkpoint_math_answers.csv
+│   │   │   │   ├── final_math_postprocessed.csv
+│   │   │   │   ├── math_m1_answers_checkpt.csv
+│   │   │   │   └── output_dataset_with_answers_qwen.csv
+│   │   │   └── codes
+│   │   │       ├── MATH_results_postprocessing.ipynb
+│   │   │       ├── baseline_gsm8k.ipynb
+│   │   │       ├── baseline_gsm8k.py
+│   │   │       └── baseline_math.ipynb
+│   │   └── multipstep_reasoning.ipynb
+│   ├── calculate_accuracy.ipynb
+│   ├── numerical_final_answers.json
+│   ├── phi-4-mini-instruct-gsm-8k-numeric-final.json
+│   ├── phi-4-mini-instruct-gsm-8k.json
+│   └── phi-4-mini-instruct-math.json
+├── Dataset
+│   ├── GSM8k
+│   │   ├── code.ipynb
+│   │   ├── modified
+│   │   │   ├── main_test.csv
+│   │   │   ├── main_train.csv
+│   │   │   ├── socratic_test.csv
+│   │   │   └── socratic_train.csv
+│   │   ├── original
+│   │   │   ├── main_test.csv
+│   │   │   ├── main_train.csv
+│   │   │   ├── socratic_test.csv
+│   │   │   └── socratic_train.csv
+│   │   ├── prompt.txt
+│   │   └── regex.ipynb
+│   └── MATH
+│       ├── Pre_processed_test
+│       │   ├── filtered_test_serial.csv
+│       │   ├── test_combined.csv
+│       │   └── test_serial.csv
+│       ├── Processed_MATH_with_answer
+│       │   ├── output_dataset_with_answers.csv
+│       │   └── output_dataset_with_answers2_final.csv
+│       ├── README.txt
+│       ├── code
+│       │   ├── MATH_dataset_postprocessing.ipynb
+│       │   └── Serial.ipynb
+│       ├── test
+│       └── train
+│        
+├── GRPO
+│   ├── Phi-4-mini-Instruct
+│   │   ├── Graphs
+│   │   │   ├── XML_Count_reward.png
+│   │   │   ├── completoin_length.png
+│   │   │   ├── correctness_reward.png
+│   │   │   ├── int_reward.png
+│   │   │   ├── learning_rate.png
+│   │   │   ├── length_reward.png
+│   │   │   ├── reasoning_length_reward.png
+│   │   │   ├── train_loss.png
+│   │   │   └── train_reward.png
+│   │   ├── Results
+│   │   │   ├── accuracy.ipynb
+│   │   │   ├── gsm8k_test_results.json
+│   │   │   └── math500_test_results.json
+│   │   ├── checkpoint-14000
+│   │   │   ├── README.md
+│   │   │   ├── adapter_config.json
+│   │   │   ├── adapter_model.safetensors
+│   │   │   ├── added_tokens.json
+│   │   │   ├── optimizer.pt
+│   │   │   ├── rng_state.pth
+│   │   │   ├── scheduler.pt
+│   │   │   ├── special_tokens_map.json
+│   │   │   ├── tokenizer.json
+│   │   │   ├── tokenizer.model
+│   │   │   ├── tokenizer_config.json
+│   │   │   ├── trainer_state.json
+│   │   │   └── training_args.bin
+│   │   ├── checkpoint_8000
+│   │   │   ├── README.md
+│   │   │   ├── adapter_config.json
+│   │   │   ├── adapter_model.safetensors
+│   │   │   ├── added_tokens.json
+│   │   │   ├── optimizer.pt
+│   │   │   ├── rng_state.pth
+│   │   │   ├── scheduler.pt
+│   │   │   ├── special_tokens_map.json
+│   │   │   ├── tokenizer.json
+│   │   │   ├── tokenizer.model
+│   │   │   ├── tokenizer_config.json
+│   │   │   ├── trainer_state.json
+│   │   │   └── training_args.bin
+│   │   ├── phi-combined.py
+│   │   ├── phi-test.py
+│   │   └── trial.py
+│   ├── Qwen
+│   │   ├── Combined_Dataset
+│   │   │   ├── qwen-combined-test.py
+│   │   │   └── qwen-combined.py
+│   │   ├── Graphs
+│   │   │   ├── completion_length.png
+│   │   │   ├── corr_reward.png
+│   │   │   ├── reasoning_length_reward.png
+│   │   │   └── train_loss.png
+│   │   ├── Modified_RF
+│   │   │   └── qwen-MRF-grpo.py
+│   │   ├── Results
+│   │   │   ├── Outputs
+│   │   │   │   └── checkpoint-3000
+│   │   │   │       ├── README.md
+│   │   │   │       ├── adapter_config.json
+│   │   │   │       ├── adapter_model.safetensors
+│   │   │   │       ├── added_tokens.json
+│   │   │   │       ├── merges.txt
+│   │   │   │       ├── optimizer.pt
+│   │   │   │       ├── rng_state.pth
+│   │   │   │       ├── scheduler.pt
+│   │   │   │       ├── special_tokens_map.json
+│   │   │   │       ├── tokenizer.json
+│   │   │   │       ├── tokenizer_config.json
+│   │   │   │       ├── trainer_state.json
+│   │   │   │       ├── training_args.bin
+│   │   │   │       └── vocab.json
+│   │   │   ├── unsloth_compiled_cache
+│   │   │   │   ├── UnslothAlignPropTrainer.py
+│   │   │   │   ├── UnslothBCOTrainer.py
+│   │   │   │   ├── UnslothCPOTrainer.py
+│   │   │   │   ├── UnslothDDPOTrainer.py
+│   │   │   │   ├── UnslothDPOTrainer.py
+│   │   │   │   ├── UnslothGKDTrainer.py
+│   │   │   │   ├── UnslothGRPOTrainer.py
+│   │   │   │   ├── UnslothKTOTrainer.py
+│   │   │   │   ├── UnslothNashMDTrainer.py
+│   │   │   │   ├── UnslothORPOTrainer.py
+│   │   │   │   ├── UnslothOnlineDPOTrainer.py
+│   │   │   │   ├── UnslothPPOTrainer.py
+│   │   │   │   ├── UnslothPRMTrainer.py
+│   │   │   │   ├── UnslothRLOOTrainer.py
+│   │   │   │   ├── UnslothRewardTrainer.py
+│   │   │   │   ├── UnslothSFTTrainer.py
+│   │   │   │   ├── UnslothXPOTrainer.py
+│   │   │   │   └── __pycache__
+│   │   │   │       ├── UnslothAlignPropTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothAlignPropTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothBCOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothBCOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothCPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothCPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothDDPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothDDPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothDPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothDPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothGKDTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothGKDTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothGRPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothGRPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothKTOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothKTOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothNashMDTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothNashMDTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothORPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothORPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothOnlineDPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothOnlineDPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothPPOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothPPOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothPRMTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothPRMTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothRLOOTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothRLOOTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothRewardTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothRewardTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothSFTTrainer.cpython-311.pyc
+│   │   │   │       ├── UnslothSFTTrainer.cpython-312.pyc
+│   │   │   │       ├── UnslothXPOTrainer.cpython-311.pyc
+│   │   │   │       └── UnslothXPOTrainer.cpython-312.pyc
+│   │   │   └── wandb
+│   │   │       ├── debug-internal.log
+│   │   │       ├── debug.log
+│   │   │       ├── latest-run
+│   │   │       │   ├── files
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   └── wandb-metadata.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-core.log
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-t9mu0db2.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── offline-run-20250328_194501-t9mu0db2
+│   │   │       │   ├── files
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   └── wandb-metadata.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-core.log
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-t9mu0db2.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250321_214039-6c6uwn3f
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-6c6uwn3f.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250321_214200-dy6qkfvj
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-dy6qkfvj.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250321_215643-takwzfx3
+│   │   │       │   ├── files
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   └── wandb-metadata.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-takwzfx3.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250321_220534-j63aknt1
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-j63aknt1.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_004014-hrh8cyi9
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-hrh8cyi9.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_004122-71kb7gdd
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-71kb7gdd.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_004351-5snhiapl
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-5snhiapl.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_004551-oqobuimi
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-oqobuimi.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_005219-6irdmyky
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-6irdmyky.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_010054-43jy9zue
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-43jy9zue.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_011430-ddldhkeo
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-ddldhkeo.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_015505-2jctgrkf
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-2jctgrkf.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_023506-tr0kex3r
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-tr0kex3r.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_024621-2d14hyl0
+│   │   │       │   ├── files
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   └── wandb-metadata.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-2d14hyl0.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_025127-g7p5gb5r
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-g7p5gb5r.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       ├── run-20250322_033020-0yufgxjb
+│   │   │       │   ├── files
+│   │   │       │   │   ├── config.yaml
+│   │   │       │   │   ├── output.log
+│   │   │       │   │   ├── requirements.txt
+│   │   │       │   │   ├── wandb-metadata.json
+│   │   │       │   │   └── wandb-summary.json
+│   │   │       │   ├── logs
+│   │   │       │   │   ├── debug-internal.log
+│   │   │       │   │   └── debug.log
+│   │   │       │   ├── run-0yufgxjb.wandb
+│   │   │       │   └── tmp
+│   │   │       │       └── code
+│   │   │       └── run-20250322_033230-davdtl9m
+│   │   │           ├── files
+│   │   │           │   ├── output.log
+│   │   │           │   ├── requirements.txt
+│   │   │           │   ├── wandb-metadata.json
+│   │   │           │   └── wandb-summary.json
+│   │   │           ├── logs
+│   │   │           │   ├── debug-internal.log
+│   │   │           │   └── debug.log
+│   │   │           ├── run-davdtl9m.wandb
+│   │   │           └── tmp
+│   │   │               └── code
+│   │   ├── Test
+│   │   │   ├── qwen-math-gpro-test.py
+│   │   │   └── test_results.jsonl
+│   │   └── try1
+│   │       ├── qwen-math-gpro-test.py
+│   │       ├── qwen-math-grpo.ipynb
+│   │       ├── qwen-math-grpo.py
+│   │       ├── test_results.jsonl
+│   │       └── test_results_wogpro.jsonl
+│   ├── llama3.1_(8B)-GRPO.py
+│   ├── qwen-math-grpo.ipynb
+│   └── qwen_grpo.py
+├── LICENSE
+├── Mid-Eval Targets
+├── Papers
+│   └── 2402.03300v3.pdf
+├── Presentation
+│   ├── Arithmetic Reasoning.pdf
+│   ├── Final_Presentation.pdf
+│   └── LanguageWarriors_MidEval.pdf
+├── README.md
+├── Report.pdf
+└── output.txt
+
+159 directories, 12864 files
