@@ -27,7 +27,8 @@ GRADIENT_ACCUMULATION_STEPS = 1
 MAX_STEPS = 16000 # Increased steps, as combined dataset is larger
 SAVE_STEPS = 1000
 LEARNING_RATE = 5e-6
-SYSTEM_PROMPT = """
+SYSTEM_PROMPT = 
+"""
 Respond in the following format:
 <reasoning>
 ...
