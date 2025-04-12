@@ -1,0 +1,4394 @@
+{
+  "1": {
+    "value": 36,
+    "type": "int"
+  },
+  "2": {
+    "value": "\\angle PRQ = 145^{\\circ}$",
+    "type": "math_expression"
+  },
+  "3": {
+    "value": 8,
+    "type": "int"
+  },
+  "4": {
+    "value": "2x + 5 + 3x - 8$",
+    "type": "math_expression"
+  },
+  "5": {
+    "value": 1,
+    "type": "int"
+  },
+  "7": {
+    "value": 3,
+    "type": "int"
+  },
+  "8": {
+    "value": 4.5,
+    "type": "float"
+  },
+  "9": {
+    "value": 2,
+    "type": "int"
+  },
+  "10": {
+    "value": 12,
+    "type": "int"
+  },
+  "11": {
+    "value": 6,
+    "type": "int"
+  },
+  "13": {
+    "value": "m+2$",
+    "type": "math_expression"
+  },
+  "15": {
+    "value": 6,
+    "type": "int"
+  },
+  "16": {
+    "value": 1,
+    "type": "int"
+  },
+  "17": {
+    "value": 25,
+    "type": "int"
+  },
+  "18": {
+    "value": 1,
+    "type": "int"
+  },
+  "19": {
+    "value": 12,
+    "type": "int"
+  },
+  "20": {
+    "value": 9,
+    "type": "int"
+  },
+  "21": {
+    "value": 16,
+    "type": "int"
+  },
+  "22": {
+    "value": 144,
+    "type": "int"
+  },
+  "23": {
+    "value": 2,
+    "type": "int"
+  },
+  "24": {
+    "value": 9,
+    "type": "int"
+  },
+  "25": {
+    "value": 3,
+    "type": "int"
+  },
+  "26": {
+    "value": 1,
+    "type": "int"
+  },
+  "27": {
+    "value": 48,
+    "type": "int"
+  },
+  "28": {
+    "value": "x = 0.\\overline{7}$",
+    "type": "math_expression"
+  },
+  "30": {
+    "value": 6,
+    "type": "int"
+  },
+  "31": {
+    "value": 9,
+    "type": "int"
+  },
+  "32": {
+    "value": 1,
+    "type": "int"
+  },
+  "33": {
+    "value": 87,
+    "type": "int"
+  },
+  "34": {
+    "value": 36,
+    "type": "int"
+  },
+  "35": {
+    "value": "0.\\overline{714285}$",
+    "type": "math_expression"
+  },
+  "36": {
+    "value": 108,
+    "type": "int"
+  },
+  "37": {
+    "value": 150,
+    "type": "int"
+  },
+  "38": {
+    "value": 3,
+    "type": "int"
+  },
+  "39": {
+    "value": 15,
+    "type": "int"
+  },
+  "40": {
+    "value": 24,
+    "type": "int"
+  },
+  "41": {
+    "value": 6,
+    "type": "int"
+  },
+  "42": {
+    "value": 5,
+    "type": "int"
+  },
+  "43": {
+    "value": 2,
+    "type": "int"
+  },
+  "44": {
+    "value": "\\angle P$",
+    "type": "math_expression"
+  },
+  "45": {
+    "value": 4,
+    "type": "int"
+  },
+  "47": {
+    "value": 7.78,
+    "type": "float"
+  },
+  "48": {
+    "value": 2,
+    "type": "int"
+  },
+  "49": {
+    "value": 11,
+    "type": "int"
+  },
+  "50": {
+    "value": 420,
+    "type": "int"
+  },
+  "51": {
+    "value": 10,
+    "type": "int"
+  },
+  "52": {
+    "value": 21,
+    "type": "int"
+  },
+  "53": {
+    "value": 75,
+    "type": "int"
+  },
+  "54": {
+    "value": 6,
+    "type": "int"
+  },
+  "55": {
+    "value": "3a - 21 + 7a = 5$",
+    "type": "math_expression"
+  },
+  "56": {
+    "value": 180,
+    "type": "int"
+  },
+  "57": {
+    "value": 2,
+    "type": "int"
+  },
+  "58": {
+    "value": 11,
+    "type": "int"
+  },
+  "60": {
+    "value": 50,
+    "type": "int"
+  },
+  "61": {
+    "value": -3969,
+    "type": "int"
+  },
+  "62": {
+    "value": 5,
+    "type": "int"
+  },
+  "65": {
+    "value": 4,
+    "type": "int"
+  },
+  "66": {
+    "value": "\\sqrt{2940} = \\sqrt{2 \\cdot 3 \\cdot 5 \\cdot 7 \\cdot 7 \\cdot 3 \\cdot 2} = \\sqrt{(2 \\cdot 2) \\cdot (3 \\cdot 3) \\cdot 5 \\cdot 7 \\cdot 7} = 2 \\cdot 3 \\cdot 7 \\cdot \\sqrt{5} = 42\\sqrt{5}$",
+    "type": "math_expression"
+  },
+  "67": {
+    "value": 90,
+    "type": "int"
+  },
+  "68": {
+    "value": 3,
+    "type": "int"
+  },
+  "69": {
+    "value": 1,
+    "type": "int"
+  },
+  "70": {
+    "value": 968,
+    "type": "int"
+  },
+  "71": {
+    "value": 2,
+    "type": "int"
+  },
+  "72": {
+    "value": 5,
+    "type": "int"
+  },
+  "74": {
+    "value": 11,
+    "type": "int"
+  },
+  "75": {
+    "value": 27,
+    "type": "int"
+  },
+  "76": {
+    "value": "\\pi \\times 7^2 = 49\\pi$",
+    "type": "math_expression"
+  },
+  "77": {
+    "value": "S_n = \\frac{12}{2}(-8 + 3) = 6 \\times (-5) = -30$",
+    "type": "math_expression"
+  },
+  "78": {
+    "value": 20,
+    "type": "int"
+  },
+  "79": {
+    "value": "3\\sqrt{5}$",
+    "type": "math_expression"
+  },
+  "80": {
+    "value": "-3n + 3 > -11$",
+    "type": "math_expression"
+  },
+  "81": {
+    "value": 10,
+    "type": "int"
+  },
+  "82": {
+    "value": 9,
+    "type": "int"
+  },
+  "83": {
+    "value": "1.5 \\times 8 = 12$",
+    "type": "math_expression"
+  },
+  "86": {
+    "value": 3,
+    "type": "int"
+  },
+  "87": {
+    "value": 3,
+    "type": "int"
+  },
+  "88": {
+    "value": "\\frac{k-3}{2} + 3k+1+\\frac{3k+1}{2} = \\frac{k-3+3k+1}{2} + 3k+1 = \\frac{4k-2}{2} + 3k+1 = 2k-1 + 3k+1 = 5k$",
+    "type": "math_expression"
+  },
+  "89": {
+    "value": 18,
+    "type": "int"
+  },
+  "90": {
+    "value": 10,
+    "type": "int"
+  },
+  "91": {
+    "value": 4,
+    "type": "int"
+  },
+  "92": {
+    "value": "x",
+    "type": "math_expression"
+  },
+  "93": {
+    "value": 14913,
+    "type": "int"
+  },
+  "94": {
+    "value": 6,
+    "type": "int"
+  },
+  "95": {
+    "value": 0.57,
+    "type": "float"
+  },
+  "97": {
+    "value": 2800,
+    "type": "int"
+  },
+  "99": {
+    "value": 7,
+    "type": "int"
+  },
+  "100": {
+    "value": 3,
+    "type": "int"
+  },
+  "101": {
+    "value": 167,
+    "type": "int"
+  },
+  "102": {
+    "value": 24,
+    "type": "int"
+  },
+  "103": {
+    "value": 11,
+    "type": "int"
+  },
+  "105": {
+    "value": 25.33,
+    "type": "float"
+  },
+  "106": {
+    "value": 1,
+    "type": "int"
+  },
+  "107": {
+    "value": 3,
+    "type": "int"
+  },
+  "108": {
+    "value": 30,
+    "type": "int"
+  },
+  "109": {
+    "value": 2.8,
+    "type": "float"
+  },
+  "110": {
+    "value": 0,
+    "type": "int"
+  },
+  "113": {
+    "value": "\\sqrt{6} + \\sqrt{18} = \\sqrt{6} + \\sqrt{9 \\times 2} = \\sqrt{6} + 3\\sqrt{2} = \\sqrt{6} + 3\\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "114": {
+    "value": 5,
+    "type": "int"
+  },
+  "116": {
+    "value": 6,
+    "type": "int"
+  },
+  "117": {
+    "value": 15,
+    "type": "int"
+  },
+  "118": {
+    "value": 9,
+    "type": "int"
+  },
+  "119": {
+    "value": 2,
+    "type": "int"
+  },
+  "120": {
+    "value": 448,
+    "type": "int"
+  },
+  "121": {
+    "value": 20,
+    "type": "int"
+  },
+  "123": {
+    "value": 10,
+    "type": "int"
+  },
+  "125": {
+    "value": 30,
+    "type": "int"
+  },
+  "126": {
+    "value": "5x + 3 - 4x + 8$",
+    "type": "math_expression"
+  },
+  "127": {
+    "value": 96,
+    "type": "int"
+  },
+  "128": {
+    "value": 15,
+    "type": "int"
+  },
+  "129": {
+    "value": "B$",
+    "type": "math_expression"
+  },
+  "130": {
+    "value": 25,
+    "type": "int"
+  },
+  "132": {
+    "value": "ABCD$",
+    "type": "math_expression"
+  },
+  "133": {
+    "value": "",
+    "type": "math_expression"
+  },
+  "134": {
+    "value": 3,
+    "type": "int"
+  },
+  "136": {
+    "value": 360,
+    "type": "int"
+  },
+  "137": {
+    "value": 3,
+    "type": "int"
+  },
+  "138": {
+    "value": 4,
+    "type": "int"
+  },
+  "139": {
+    "value": 85,
+    "type": "int"
+  },
+  "140": {
+    "value": 12,
+    "type": "int"
+  },
+  "141": {
+    "value": 20,
+    "type": "int"
+  },
+  "142": {
+    "value": 4,
+    "type": "int"
+  },
+  "144": {
+    "value": 3,
+    "type": "int"
+  },
+  "145": {
+    "value": "\\frac{4}{9}$",
+    "type": "math_expression"
+  },
+  "147": {
+    "value": "\\frac{1}{3}$",
+    "type": "math_expression"
+  },
+  "148": {
+    "value": "P = \\frac{",
+    "type": "math_expression"
+  },
+  "149": {
+    "value": 5,
+    "type": "int"
+  },
+  "150": {
+    "value": 30,
+    "type": "int"
+  },
+  "151": {
+    "value": 4,
+    "type": "int"
+  },
+  "152": {
+    "value": 9,
+    "type": "int"
+  },
+  "154": {
+    "value": 1200,
+    "type": "int"
+  },
+  "155": {
+    "value": 12,
+    "type": "int"
+  },
+  "156": {
+    "value": 7,
+    "type": "int"
+  },
+  "157": {
+    "value": 510,
+    "type": "int"
+  },
+  "158": {
+    "value": "0.\\overline{05}$",
+    "type": "math_expression"
+  },
+  "159": {
+    "value": 47,
+    "type": "int"
+  },
+  "160": {
+    "value": 0,
+    "type": "int"
+  },
+  "161": {
+    "value": 10,
+    "type": "int"
+  },
+  "162": {
+    "value": 47,
+    "type": "int"
+  },
+  "163": {
+    "value": 90,
+    "type": "int"
+  },
+  "164": {
+    "value": -2,
+    "type": "int"
+  },
+  "166": {
+    "value": 600,
+    "type": "int"
+  },
+  "167": {
+    "value": 2,
+    "type": "int"
+  },
+  "168": {
+    "value": 20,
+    "type": "int"
+  },
+  "169": {
+    "value": 40,
+    "type": "int"
+  },
+  "170": {
+    "value": 12345.7,
+    "type": "float"
+  },
+  "171": {
+    "value": 10,
+    "type": "int"
+  },
+  "172": {
+    "value": 2,
+    "type": "int"
+  },
+  "174": {
+    "value": 5,
+    "type": "int"
+  },
+  "175": {
+    "value": 0.4,
+    "type": "float"
+  },
+  "176": {
+    "value": 220,
+    "type": "int"
+  },
+  "177": {
+    "value": 518,
+    "type": "int"
+  },
+  "178": {
+    "value": 2,
+    "type": "int"
+  },
+  "179": {
+    "value": 10,
+    "type": "int"
+  },
+  "180": {
+    "value": 75,
+    "type": "int"
+  },
+  "181": {
+    "value": "C = \\pi \\times 8 = 8\\pi$",
+    "type": "math_expression"
+  },
+  "182": {
+    "value": 4,
+    "type": "int"
+  },
+  "185": {
+    "value": "\\frac{3 \\times 1^3}{6^4} = \\frac{3}{1296} = \\frac{1}{432}",
+    "type": "math_expression"
+  },
+  "186": {
+    "value": 20,
+    "type": "int"
+  },
+  "187": {
+    "value": 150,
+    "type": "int"
+  },
+  "188": {
+    "value": 22,
+    "type": "int"
+  },
+  "189": {
+    "value": 3,
+    "type": "int"
+  },
+  "190": {
+    "value": 4,
+    "type": "int"
+  },
+  "191": {
+    "value": "\\sqrt{720} = \\sqrt{2^4 \\times 3^2 \\times 5} = \\sqrt{(2^2)^2 \\times 3^2 \\times 5} = 2^2 \\times 3 \\times \\sqrt{5} = 4 \\times 3 \\times \\sqrt{5} = 12\\sqrt{5}$",
+    "type": "math_expression"
+  },
+  "192": {
+    "value": "\\frac{\\sqrt{24}}{\\sqrt{30}}\\div\\frac{\\sqrt{20}}{3\\sqrt{25}} = \\frac{\\sqrt{4\\cdot 6}}{\\sqrt{2\\cdot 3\\cdot 5}}\\cdot \\frac{3\\sqrt{5}}{\\sqrt{4\\cdot 5}} = \\frac{2\\sqrt{6}}{\\sqrt{2}\\sqrt{3}\\sqrt{5}}\\cdot \\frac{3\\sqrt{5}}{\\sqrt{4}\\sqrt{5}} = \\frac{2\\sqrt{6}}{\\sqrt{2}\\sqrt{3}}\\cdot \\frac{3}{2} = \\frac{2\\sqrt{6}}{\\sqrt{6}}\\cdot \\frac{3}{2} = 1\\cdot \\frac{3}{2} = \\frac{3}{2}$",
+    "type": "math_expression"
+  },
+  "193": {
+    "value": 2,
+    "type": "int"
+  },
+  "194": {
+    "value": 13,
+    "type": "int"
+  },
+  "195": {
+    "value": 76,
+    "type": "int"
+  },
+  "196": {
+    "value": 4,
+    "type": "int"
+  },
+  "197": {
+    "value": "109$",
+    "type": "math_expression"
+  },
+  "200": {
+    "value": 1,
+    "type": "int"
+  },
+  "202": {
+    "value": 10,
+    "type": "int"
+  },
+  "203": {
+    "value": 8,
+    "type": "int"
+  },
+  "204": {
+    "value": 53,
+    "type": "int"
+  },
+  "205": {
+    "value": "\\frac{19}{330}$",
+    "type": "math_expression"
+  },
+  "206": {
+    "value": "3.90 / 48 = $",
+    "type": "math_expression"
+  },
+  "207": {
+    "value": 2,
+    "type": "int"
+  },
+  "208": {
+    "value": 200,
+    "type": "int"
+  },
+  "209": {
+    "value": "\\sqrt{\\frac{16 \\cdot 64}{49}} = \\frac{8 \\cdot 8}{7} = \\frac{64}{7}$",
+    "type": "math_expression"
+  },
+  "210": {
+    "value": 9,
+    "type": "int"
+  },
+  "211": {
+    "value": 10,
+    "type": "int"
+  },
+  "212": {
+    "value": 12,
+    "type": "int"
+  },
+  "213": {
+    "value": 4.472,
+    "type": "float"
+  },
+  "214": {
+    "value": 8,
+    "type": "int"
+  },
+  "215": {
+    "value": 5,
+    "type": "int"
+  },
+  "216": {
+    "value": 1,
+    "type": "int"
+  },
+  "217": {
+    "value": 36,
+    "type": "int"
+  },
+  "219": {
+    "value": 1200,
+    "type": "int"
+  },
+  "220": {
+    "value": 156,
+    "type": "int"
+  },
+  "221": {
+    "value": 10,
+    "type": "int"
+  },
+  "222": {
+    "value": 160,
+    "type": "int"
+  },
+  "224": {
+    "value": 60,
+    "type": "int"
+  },
+  "225": {
+    "value": 18,
+    "type": "int"
+  },
+  "226": {
+    "value": "2x$",
+    "type": "math_expression"
+  },
+  "227": {
+    "value": 12,
+    "type": "int"
+  },
+  "228": {
+    "value": 7,
+    "type": "int"
+  },
+  "229": {
+    "value": "\\frac{3 \\cdot 10 \\cdot b}{5 \\cdot 6 \\cdot a \\cdot c} \\cdot \\frac{c}{ab} = \\frac{30b}{30ac} \\cdot \\frac{c}{ab} = \\frac{b}{ac} \\cdot \\frac{c}{ab} = \\frac{b \\cdot c}{ac \\cdot ab} = \\frac{1}{a^2}$",
+    "type": "math_expression"
+  },
+  "230": {
+    "value": "\\pi$",
+    "type": "math_expression"
+  },
+  "231": {
+    "value": "2\\pi \\times 5 = 10\\pi$",
+    "type": "math_expression"
+  },
+  "232": {
+    "value": "0.\\overline{2}\\cdot 6 = \\frac{2}{9} \\cdot 6 = \\frac{12}{9} = \\frac{4}{3}$",
+    "type": "math_expression"
+  },
+  "233": {
+    "value": 90,
+    "type": "int"
+  },
+  "234": {
+    "value": "c = \\sqrt{1^2 + (\\frac{3}{4})^2} = \\sqrt{1 + \\frac{9}{16}} = \\sqrt{\\frac{25}{16}} = \\frac{5}{4} = 1.25$",
+    "type": "math_expression"
+  },
+  "235": {
+    "value": "(\\sqrt{6} + \\sqrt{24})^2 = (\\sqrt{6})^2 + 2(\\sqrt{6})(\\sqrt{24}) + (\\sqrt{24})^2 = 6 + 2\\sqrt{6}\\sqrt{24} + 24$",
+    "type": "math_expression"
+  },
+  "236": {
+    "value": 250,
+    "type": "int"
+  },
+  "237": {
+    "value": "x = 83$",
+    "type": "math_expression"
+  },
+  "238": {
+    "value": 4,
+    "type": "int"
+  },
+  "239": {
+    "value": 1,
+    "type": "int"
+  },
+  "240": {
+    "value": 11,
+    "type": "int"
+  },
+  "241": {
+    "value": 10,
+    "type": "int"
+  },
+  "242": {
+    "value": "90 + x = 8(x - 4.5)$",
+    "type": "math_expression"
+  },
+  "243": {
+    "value": 6,
+    "type": "int"
+  },
+  "245": {
+    "value": 2,
+    "type": "int"
+  },
+  "246": {
+    "value": 16,
+    "type": "int"
+  },
+  "247": {
+    "value": "4 \\times \\left(\\frac{2}{3}\\right)^5 \\times \\left(\\frac{3}{5}\\right)^4 = 4 \\times \\frac{32}{243} \\times \\frac{81}{625} = \\frac{4 \\times 32 \\times 81}{243 \\times 625} = \\frac{10368}{151875} = \\frac{3456}{63562} = \\frac{1152}{31781}$",
+    "type": "math_expression"
+  },
+  "248": {
+    "value": 144,
+    "type": "int"
+  },
+  "249": {
+    "value": 9,
+    "type": "int"
+  },
+  "250": {
+    "value": 170,
+    "type": "int"
+  },
+  "252": {
+    "value": 25,
+    "type": "int"
+  },
+  "253": {
+    "value": 9,
+    "type": "int"
+  },
+  "254": {
+    "value": 1000,
+    "type": "int"
+  },
+  "255": {
+    "value": 18,
+    "type": "int"
+  },
+  "256": {
+    "value": 23,
+    "type": "int"
+  },
+  "257": {
+    "value": "EM^2 = EF^2 - FM^2 = 8^2 - 4^2 = 64 - 16 = 48$",
+    "type": "math_expression"
+  },
+  "258": {
+    "value": 6,
+    "type": "int"
+  },
+  "259": {
+    "value": 9,
+    "type": "int"
+  },
+  "260": {
+    "value": "5\\%$",
+    "type": "math_expression"
+  },
+  "261": {
+    "value": 1,
+    "type": "int"
+  },
+  "262": {
+    "value": "6\\frac{2}{3} \\times 0.60 = 7\\frac{1}{3} \\times 0.60 = 4.20$",
+    "type": "math_expression"
+  },
+  "264": {
+    "value": 6,
+    "type": "int"
+  },
+  "265": {
+    "value": 4,
+    "type": "int"
+  },
+  "268": {
+    "value": 1,
+    "type": "int"
+  },
+  "269": {
+    "value": 40,
+    "type": "int"
+  },
+  "270": {
+    "value": 2,
+    "type": "int"
+  },
+  "271": {
+    "value": 7,
+    "type": "int"
+  },
+  "272": {
+    "value": 240,
+    "type": "int"
+  },
+  "273": {
+    "value": 5,
+    "type": "int"
+  },
+  "274": {
+    "value": 4,
+    "type": "int"
+  },
+  "275": {
+    "value": "\\frac{3}{7}$",
+    "type": "math_expression"
+  },
+  "276": {
+    "value": 5000,
+    "type": "int"
+  },
+  "277": {
+    "value": 3,
+    "type": "int"
+  },
+  "279": {
+    "value": 4,
+    "type": "int"
+  },
+  "280": {
+    "value": 2,
+    "type": "int"
+  },
+  "281": {
+    "value": 4,
+    "type": "int"
+  },
+  "282": {
+    "value": 8,
+    "type": "int"
+  },
+  "283": {
+    "value": 18,
+    "type": "int"
+  },
+  "284": {
+    "value": 12,
+    "type": "int"
+  },
+  "286": {
+    "value": 20,
+    "type": "int"
+  },
+  "287": {
+    "value": 66,
+    "type": "int"
+  },
+  "288": {
+    "value": "8\\sqrt{3}$",
+    "type": "math_expression"
+  },
+  "289": {
+    "value": 26,
+    "type": "int"
+  },
+  "292": {
+    "value": 68,
+    "type": "int"
+  },
+  "293": {
+    "value": "DF^2 = DE^2 + EF^2 = 4^2 + 4^2 = 16 + 16 = 32$",
+    "type": "math_expression"
+  },
+  "294": {
+    "value": "\\sqrt{2.5^2-0.7^2} = \\sqrt{6.25-0.49} = \\sqrt{5.76} = 2.4$",
+    "type": "math_expression"
+  },
+  "295": {
+    "value": 7,
+    "type": "int"
+  },
+  "296": {
+    "value": 20,
+    "type": "int"
+  },
+  "297": {
+    "value": 32,
+    "type": "int"
+  },
+  "298": {
+    "value": 6,
+    "type": "int"
+  },
+  "299": {
+    "value": 24,
+    "type": "int"
+  },
+  "300": {
+    "value": "11\\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "301": {
+    "value": 10,
+    "type": "int"
+  },
+  "302": {
+    "value": 10,
+    "type": "int"
+  },
+  "303": {
+    "value": 14,
+    "type": "int"
+  },
+  "304": {
+    "value": 3,
+    "type": "int"
+  },
+  "305": {
+    "value": 1313,
+    "type": "int"
+  },
+  "306": {
+    "value": 8,
+    "type": "int"
+  },
+  "308": {
+    "value": 180,
+    "type": "int"
+  },
+  "309": {
+    "value": 1,
+    "type": "int"
+  },
+  "310": {
+    "value": 26,
+    "type": "int"
+  },
+  "311": {
+    "value": 50,
+    "type": "int"
+  },
+  "312": {
+    "value": 4,
+    "type": "int"
+  },
+  "313": {
+    "value": 500,
+    "type": "int"
+  },
+  "314": {
+    "value": 1.125,
+    "type": "float"
+  },
+  "315": {
+    "value": 6,
+    "type": "int"
+  },
+  "316": {
+    "value": 1,
+    "type": "int"
+  },
+  "317": {
+    "value": -2,
+    "type": "int"
+  },
+  "318": {
+    "value": 12,
+    "type": "int"
+  },
+  "319": {
+    "value": 2,
+    "type": "int"
+  },
+  "320": {
+    "value": 51,
+    "type": "int"
+  },
+  "321": {
+    "value": 10,
+    "type": "int"
+  },
+  "322": {
+    "value": 25,
+    "type": "int"
+  },
+  "323": {
+    "value": 2,
+    "type": "int"
+  },
+  "324": {
+    "value": 3,
+    "type": "int"
+  },
+  "325": {
+    "value": 2,
+    "type": "int"
+  },
+  "327": {
+    "value": "C_1 = 2\\pi(1.125) = 2.25\\pi$",
+    "type": "math_expression"
+  },
+  "328": {
+    "value": "\\frac{1}{2}$",
+    "type": "math_expression"
+  },
+  "329": {
+    "value": 5,
+    "type": "int"
+  },
+  "330": {
+    "value": 14,
+    "type": "int"
+  },
+  "331": {
+    "value": "AB = 2 \\times BC = 2 \\times 2 = 4$",
+    "type": "math_expression"
+  },
+  "332": {
+    "value": 27,
+    "type": "int"
+  },
+  "334": {
+    "value": -7,
+    "type": "int"
+  },
+  "335": {
+    "value": 2,
+    "type": "int"
+  },
+  "336": {
+    "value": "c + 3(c + 2) = c + 3c + 6 = 4c + 6$",
+    "type": "math_expression"
+  },
+  "338": {
+    "value": 400,
+    "type": "int"
+  },
+  "339": {
+    "value": 5,
+    "type": "int"
+  },
+  "340": {
+    "value": "\\sqrt{7!} = \\sqrt{7 \\cdot 6 \\cdot 5 \\cdot 4 \\cdot 3 \\cdot 2 \\cdot 1}$",
+    "type": "math_expression"
+  },
+  "342": {
+    "value": "3p - 2p + 8 = 7p + 6$",
+    "type": "math_expression"
+  },
+  "343": {
+    "value": 10,
+    "type": "int"
+  },
+  "344": {
+    "value": 12,
+    "type": "int"
+  },
+  "345": {
+    "value": 8,
+    "type": "int"
+  },
+  "346": {
+    "value": "1$",
+    "type": "math_expression"
+  },
+  "347": {
+    "value": "\\frac{120}{360} \\times 100 = \\frac{1}{3} \\times 100 = 33\\frac{1}{3}\\%$",
+    "type": "math_expression"
+  },
+  "349": {
+    "value": 91,
+    "type": "int"
+  },
+  "350": {
+    "value": 1020,
+    "type": "int"
+  },
+  "351": {
+    "value": "A_1 = \\pi (2^2) = 4\\pi$",
+    "type": "math_expression"
+  },
+  "352": {
+    "value": 8,
+    "type": "int"
+  },
+  "353": {
+    "value": 5,
+    "type": "int"
+  },
+  "354": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "355": {
+    "value": 10,
+    "type": "int"
+  },
+  "356": {
+    "value": 70,
+    "type": "int"
+  },
+  "357": {
+    "value": 120,
+    "type": "int"
+  },
+  "358": {
+    "value": 6,
+    "type": "int"
+  },
+  "359": {
+    "value": 3,
+    "type": "int"
+  },
+  "360": {
+    "value": 3,
+    "type": "int"
+  },
+  "361": {
+    "value": 2,
+    "type": "int"
+  },
+  "362": {
+    "value": 1,
+    "type": "int"
+  },
+  "364": {
+    "value": "\\sqrt{53}$",
+    "type": "math_expression"
+  },
+  "365": {
+    "value": 5,
+    "type": "int"
+  },
+  "366": {
+    "value": "\\frac{137}{111}$",
+    "type": "math_expression"
+  },
+  "367": {
+    "value": 13,
+    "type": "int"
+  },
+  "369": {
+    "value": "3x - 4 + 6x - 18 + 3x - 12 = 12x - 34$",
+    "type": "math_expression"
+  },
+  "370": {
+    "value": 112,
+    "type": "int"
+  },
+  "371": {
+    "value": 7,
+    "type": "int"
+  },
+  "372": {
+    "value": 50,
+    "type": "int"
+  },
+  "374": {
+    "value": "a$",
+    "type": "math_expression"
+  },
+  "375": {
+    "value": 0.3,
+    "type": "float"
+  },
+  "376": {
+    "value": 3,
+    "type": "int"
+  },
+  "377": {
+    "value": 12,
+    "type": "int"
+  },
+  "378": {
+    "value": "\\frac{5}{9}$",
+    "type": "math_expression"
+  },
+  "380": {
+    "value": "\\sqrt{15}\\cdot\\sqrt{35} = \\sqrt{15 \\cdot 35} = \\sqrt{525}$",
+    "type": "math_expression"
+  },
+  "381": {
+    "value": 123,
+    "type": "int"
+  },
+  "382": {
+    "value": 6,
+    "type": "int"
+  },
+  "383": {
+    "value": 3,
+    "type": "int"
+  },
+  "384": {
+    "value": 6,
+    "type": "int"
+  },
+  "388": {
+    "value": 60,
+    "type": "int"
+  },
+  "390": {
+    "value": 7,
+    "type": "int"
+  },
+  "393": {
+    "value": 1,
+    "type": "int"
+  },
+  "395": {
+    "value": 2,
+    "type": "int"
+  },
+  "399": {
+    "value": 200,
+    "type": "int"
+  },
+  "401": {
+    "value": 8,
+    "type": "int"
+  },
+  "403": {
+    "value": 2121,
+    "type": "int"
+  },
+  "404": {
+    "value": "81_9 - 72_9 = 9_9$",
+    "type": "math_expression"
+  },
+  "407": {
+    "value": 416,
+    "type": "int"
+  },
+  "408": {
+    "value": "(30)^4$",
+    "type": "math_expression"
+  },
+  "410": {
+    "value": 3,
+    "type": "int"
+  },
+  "414": {
+    "value": 24,
+    "type": "int"
+  },
+  "416": {
+    "value": 34,
+    "type": "int"
+  },
+  "417": {
+    "value": "a^2 - 2a + 1 = 7a + 1$",
+    "type": "math_expression"
+  },
+  "418": {
+    "value": 1399,
+    "type": "int"
+  },
+  "423": {
+    "value": 2,
+    "type": "int"
+  },
+  "425": {
+    "value": 4,
+    "type": "int"
+  },
+  "426": {
+    "value": 1,
+    "type": "int"
+  },
+  "427": {
+    "value": 197,
+    "type": "int"
+  },
+  "429": {
+    "value": 10,
+    "type": "int"
+  },
+  "431": {
+    "value": 137,
+    "type": "int"
+  },
+  "432": {
+    "value": 2,
+    "type": "int"
+  },
+  "433": {
+    "value": 4,
+    "type": "int"
+  },
+  "434": {
+    "value": 35,
+    "type": "int"
+  },
+  "436": {
+    "value": 476,
+    "type": "int"
+  },
+  "438": {
+    "value": 198,
+    "type": "int"
+  },
+  "440": {
+    "value": 8888,
+    "type": "int"
+  },
+  "441": {
+    "value": 1,
+    "type": "int"
+  },
+  "444": {
+    "value": 9,
+    "type": "int"
+  },
+  "445": {
+    "value": 44,
+    "type": "int"
+  },
+  "446": {
+    "value": 8,
+    "type": "int"
+  },
+  "449": {
+    "value": 12,
+    "type": "int"
+  },
+  "451": {
+    "value": 3,
+    "type": "int"
+  },
+  "454": {
+    "value": 8,
+    "type": "int"
+  },
+  "457": {
+    "value": 16,
+    "type": "int"
+  },
+  "461": {
+    "value": 1,
+    "type": "int"
+  },
+  "463": {
+    "value": 13,
+    "type": "int"
+  },
+  "464": {
+    "value": 7,
+    "type": "int"
+  },
+  "467": {
+    "value": 2,
+    "type": "int"
+  },
+  "468": {
+    "value": 27,
+    "type": "int"
+  },
+  "469": {
+    "value": 111,
+    "type": "int"
+  },
+  "470": {
+    "value": 3,
+    "type": "int"
+  },
+  "471": {
+    "value": "S_9 = 1 \\frac{1 - 2^9}{1 - 2} = 1 \\frac{1 - 512}{-1} = 511",
+    "type": "math_expression"
+  },
+  "474": {
+    "value": 1,
+    "type": "int"
+  },
+  "478": {
+    "value": "2 \\times 4 \\times 6 \\times 8 \\times 10 \\times 12$",
+    "type": "math_expression"
+  },
+  "483": {
+    "value": 3,
+    "type": "int"
+  },
+  "487": {
+    "value": 30,
+    "type": "int"
+  },
+  "488": {
+    "value": 2,
+    "type": "int"
+  },
+  "490": {
+    "value": 14,
+    "type": "int"
+  },
+  "496": {
+    "value": "200,000$",
+    "type": "math_expression"
+  },
+  "497": {
+    "value": 90,
+    "type": "int"
+  },
+  "498": {
+    "value": "18,\\!632 - 23 = 18,\\!609$",
+    "type": "math_expression"
+  },
+  "500": {
+    "value": 46,
+    "type": "int"
+  },
+  "501": {
+    "value": 0,
+    "type": "int"
+  },
+  "503": {
+    "value": 60,
+    "type": "int"
+  },
+  "504": {
+    "value": 100,
+    "type": "int"
+  },
+  "505": {
+    "value": 42,
+    "type": "int"
+  },
+  "506": {
+    "value": "n$",
+    "type": "math_expression"
+  },
+  "508": {
+    "value": 10,
+    "type": "int"
+  },
+  "510": {
+    "value": 85,
+    "type": "int"
+  },
+  "511": {
+    "value": 0,
+    "type": "int"
+  },
+  "513": {
+    "value": 9,
+    "type": "int"
+  },
+  "514": {
+    "value": "2x - 23 = 1$",
+    "type": "math_expression"
+  },
+  "516": {
+    "value": 306,
+    "type": "int"
+  },
+  "518": {
+    "value": 3.283283,
+    "type": "float"
+  },
+  "519": {
+    "value": 13,
+    "type": "int"
+  },
+  "520": {
+    "value": 2,
+    "type": "int"
+  },
+  "522": {
+    "value": "n$",
+    "type": "math_expression"
+  },
+  "523": {
+    "value": 0,
+    "type": "int"
+  },
+  "525": {
+    "value": -9,
+    "type": "int"
+  },
+  "526": {
+    "value": "10^8$",
+    "type": "math_expression"
+  },
+  "528": {
+    "value": 1,
+    "type": "int"
+  },
+  "532": {
+    "value": "\\frac{1}{17}$",
+    "type": "math_expression"
+  },
+  "534": {
+    "value": 7,
+    "type": "int"
+  },
+  "535": {
+    "value": 5,
+    "type": "int"
+  },
+  "536": {
+    "value": 5,
+    "type": "int"
+  },
+  "540": {
+    "value": 49,
+    "type": "int"
+  },
+  "548": {
+    "value": 5,
+    "type": "int"
+  },
+  "550": {
+    "value": "242_5 = 2*5^2 + 4*5^1 + 2*5^0 = 50 + 20 + 2 = 72_{10}$",
+    "type": "math_expression"
+  },
+  "551": {
+    "value": 50,
+    "type": "int"
+  },
+  "552": {
+    "value": 4,
+    "type": "int"
+  },
+  "554": {
+    "value": 40,
+    "type": "int"
+  },
+  "555": {
+    "value": 1234,
+    "type": "int"
+  },
+  "556": {
+    "value": "3 \\pmod{11}$",
+    "type": "math_expression"
+  },
+  "557": {
+    "value": 8,
+    "type": "int"
+  },
+  "561": {
+    "value": 24,
+    "type": "int"
+  },
+  "563": {
+    "value": "$(a-b)\\equiv (62-75)\\pmod{99}$",
+    "type": "math_expression"
+  },
+  "565": {
+    "value": "201_3$",
+    "type": "math_expression"
+  },
+  "569": {
+    "value": 1000,
+    "type": "int"
+  },
+  "570": {
+    "value": 0.0111,
+    "type": "float"
+  },
+  "572": {
+    "value": 101,
+    "type": "int"
+  },
+  "573": {
+    "value": 1951,
+    "type": "int"
+  },
+  "578": {
+    "value": 201,
+    "type": "int"
+  },
+  "579": {
+    "value": 100,
+    "type": "int"
+  },
+  "580": {
+    "value": "1001_b$",
+    "type": "math_expression"
+  },
+  "581": {
+    "value": 252,
+    "type": "int"
+  },
+  "583": {
+    "value": 2,
+    "type": "int"
+  },
+  "586": {
+    "value": 1,
+    "type": "int"
+  },
+  "587": {
+    "value": 5,
+    "type": "int"
+  },
+  "591": {
+    "value": "b$",
+    "type": "math_expression"
+  },
+  "592": {
+    "value": 1000,
+    "type": "int"
+  },
+  "593": {
+    "value": 144,
+    "type": "int"
+  },
+  "594": {
+    "value": 14,
+    "type": "int"
+  },
+  "597": {
+    "value": 11111,
+    "type": "int"
+  },
+  "598": {
+    "value": "A-B = (1+3+5+7+9+11+13+15) - (0+2+4+6+8+10+12+14) = 64 - 46 = 18$",
+    "type": "math_expression"
+  },
+  "599": {
+    "value": "2a + b - c = 2(19k + 4) + (19l + 2) - (19m + 18) = 38k + 8 + 19l + 2 - 19m - 18 = 19(2k + l - m) + 2$",
+    "type": "math_expression"
+  },
+  "602": {
+    "value": 2,
+    "type": "int"
+  },
+  "603": {
+    "value": 10,
+    "type": "int"
+  },
+  "605": {
+    "value": "1331 + 9999 = 11330$",
+    "type": "math_expression"
+  },
+  "606": {
+    "value": "817_9 - 145_9 - 266_9 = 602_9$",
+    "type": "math_expression"
+  },
+  "609": {
+    "value": 8,
+    "type": "int"
+  },
+  "610": {
+    "value": "3^1$",
+    "type": "math_expression"
+  },
+  "615": {
+    "value": 2,
+    "type": "int"
+  },
+  "622": {
+    "value": 100,
+    "type": "int"
+  },
+  "623": {
+    "value": 7,
+    "type": "int"
+  },
+  "624": {
+    "value": 5,
+    "type": "int"
+  },
+  "625": {
+    "value": 5,
+    "type": "int"
+  },
+  "627": {
+    "value": 39,
+    "type": "int"
+  },
+  "630": {
+    "value": 10001,
+    "type": "int"
+  },
+  "632": {
+    "value": 0,
+    "type": "int"
+  },
+  "635": {
+    "value": "123_4 \\cdot 3_4 = 1331_4$",
+    "type": "math_expression"
+  },
+  "637": {
+    "value": 1,
+    "type": "int"
+  },
+  "638": {
+    "value": 3,
+    "type": "int"
+  },
+  "641": {
+    "value": "n$",
+    "type": "math_expression"
+  },
+  "642": {
+    "value": 4,
+    "type": "int"
+  },
+  "643": {
+    "value": 2,
+    "type": "int"
+  },
+  "644": {
+    "value": 24,
+    "type": "int"
+  },
+  "647": {
+    "value": 9,
+    "type": "int"
+  },
+  "648": {
+    "value": 3,
+    "type": "int"
+  },
+  "649": {
+    "value": 3,
+    "type": "int"
+  },
+  "650": {
+    "value": "413_5 \\div 2_5 = 31_5$",
+    "type": "math_expression"
+  },
+  "651": {
+    "value": 6,
+    "type": "int"
+  },
+  "654": {
+    "value": -10,
+    "type": "int"
+  },
+  "655": {
+    "value": 9,
+    "type": "int"
+  },
+  "658": {
+    "value": 36,
+    "type": "int"
+  },
+  "662": {
+    "value": "-314159$",
+    "type": "math_expression"
+  },
+  "663": {
+    "value": 121,
+    "type": "int"
+  },
+  "666": {
+    "value": 1,
+    "type": "int"
+  },
+  "668": {
+    "value": 1,
+    "type": "int"
+  },
+  "673": {
+    "value": 11,
+    "type": "int"
+  },
+  "675": {
+    "value": 35,
+    "type": "int"
+  },
+  "679": {
+    "value": 5,
+    "type": "int"
+  },
+  "680": {
+    "value": 3,
+    "type": "int"
+  },
+  "682": {
+    "value": 1,
+    "type": "int"
+  },
+  "683": {
+    "value": 8,
+    "type": "int"
+  },
+  "685": {
+    "value": 1,
+    "type": "int"
+  },
+  "687": {
+    "value": 1,
+    "type": "int"
+  },
+  "688": {
+    "value": 30,
+    "type": "int"
+  },
+  "689": {
+    "value": 11,
+    "type": "int"
+  },
+  "690": {
+    "value": 33,
+    "type": "int"
+  },
+  "691": {
+    "value": 90,
+    "type": "int"
+  },
+  "692": {
+    "value": 4,
+    "type": "int"
+  },
+  "693": {
+    "value": 1,
+    "type": "int"
+  },
+  "694": {
+    "value": 3,
+    "type": "int"
+  },
+  "695": {
+    "value": 1,
+    "type": "int"
+  },
+  "696": {
+    "value": 1,
+    "type": "int"
+  },
+  "698": {
+    "value": 4,
+    "type": "int"
+  },
+  "699": {
+    "value": 3,
+    "type": "int"
+  },
+  "700": {
+    "value": 1,
+    "type": "int"
+  },
+  "701": {
+    "value": 4,
+    "type": "int"
+  },
+  "703": {
+    "value": 7,
+    "type": "int"
+  },
+  "704": {
+    "value": 1,
+    "type": "int"
+  },
+  "705": {
+    "value": 1,
+    "type": "int"
+  },
+  "707": {
+    "value": 2,
+    "type": "int"
+  },
+  "708": {
+    "value": 12,
+    "type": "int"
+  },
+  "710": {
+    "value": 3,
+    "type": "int"
+  },
+  "711": {
+    "value": 5,
+    "type": "int"
+  },
+  "712": {
+    "value": 5,
+    "type": "int"
+  },
+  "713": {
+    "value": 24,
+    "type": "int"
+  },
+  "714": {
+    "value": 1,
+    "type": "int"
+  },
+  "715": {
+    "value": 8,
+    "type": "int"
+  },
+  "717": {
+    "value": 10,
+    "type": "int"
+  },
+  "719": {
+    "value": 3,
+    "type": "int"
+  },
+  "720": {
+    "value": 4,
+    "type": "int"
+  },
+  "721": {
+    "value": 7,
+    "type": "int"
+  },
+  "723": {
+    "value": 4,
+    "type": "int"
+  },
+  "724": {
+    "value": 120,
+    "type": "int"
+  },
+  "727": {
+    "value": 5,
+    "type": "int"
+  },
+  "729": {
+    "value": 10,
+    "type": "int"
+  },
+  "730": {
+    "value": 5,
+    "type": "int"
+  },
+  "731": {
+    "value": 8,
+    "type": "int"
+  },
+  "732": {
+    "value": 1,
+    "type": "int"
+  },
+  "734": {
+    "value": 3,
+    "type": "int"
+  },
+  "736": {
+    "value": 3,
+    "type": "int"
+  },
+  "737": {
+    "value": 4,
+    "type": "int"
+  },
+  "739": {
+    "value": "\\frac{2}{5} \\times \\frac{3}{5} + \\frac{3}{5} \\times \\frac{2}{5} = \\frac{6}{25} + \\frac{6}{25} = \\frac{12}{25}$",
+    "type": "math_expression"
+  },
+  "741": {
+    "value": 11,
+    "type": "int"
+  },
+  "742": {
+    "value": 3,
+    "type": "int"
+  },
+  "743": {
+    "value": "n = 6$",
+    "type": "math_expression"
+  },
+  "744": {
+    "value": 10,
+    "type": "int"
+  },
+  "745": {
+    "value": 1,
+    "type": "int"
+  },
+  "748": {
+    "value": 216,
+    "type": "int"
+  },
+  "749": {
+    "value": 3,
+    "type": "int"
+  },
+  "750": {
+    "value": 3,
+    "type": "int"
+  },
+  "751": {
+    "value": 1,
+    "type": "int"
+  },
+  "754": {
+    "value": 60,
+    "type": "int"
+  },
+  "756": {
+    "value": 1,
+    "type": "int"
+  },
+  "758": {
+    "value": 4,
+    "type": "int"
+  },
+  "759": {
+    "value": 7,
+    "type": "int"
+  },
+  "767": {
+    "value": 31,
+    "type": "int"
+  },
+  "768": {
+    "value": 6,
+    "type": "int"
+  },
+  "770": {
+    "value": 1,
+    "type": "int"
+  },
+  "771": {
+    "value": 20,
+    "type": "int"
+  },
+  "772": {
+    "value": 6,
+    "type": "int"
+  },
+  "774": {
+    "value": 2,
+    "type": "int"
+  },
+  "775": {
+    "value": 6,
+    "type": "int"
+  },
+  "776": {
+    "value": 5040,
+    "type": "int"
+  },
+  "777": {
+    "value": 2,
+    "type": "int"
+  },
+  "779": {
+    "value": 4,
+    "type": "int"
+  },
+  "781": {
+    "value": "(5+2\\sqrt{7})^4$",
+    "type": "math_expression"
+  },
+  "783": {
+    "value": 2008,
+    "type": "int"
+  },
+  "784": {
+    "value": "n$",
+    "type": "math_expression"
+  },
+  "785": {
+    "value": 49,
+    "type": "int"
+  },
+  "787": {
+    "value": 5,
+    "type": "int"
+  },
+  "788": {
+    "value": 8,
+    "type": "int"
+  },
+  "789": {
+    "value": 2,
+    "type": "int"
+  },
+  "790": {
+    "value": 7,
+    "type": "int"
+  },
+  "791": {
+    "value": 15,
+    "type": "int"
+  },
+  "792": {
+    "value": 1,
+    "type": "int"
+  },
+  "793": {
+    "value": 1,
+    "type": "int"
+  },
+  "794": {
+    "value": "\\left(\\dfrac{x}{3}\\right)^3-3x^2+81x-793=0$",
+    "type": "math_expression"
+  },
+  "795": {
+    "value": 12,
+    "type": "int"
+  },
+  "796": {
+    "value": 3,
+    "type": "int"
+  },
+  "800": {
+    "value": 120,
+    "type": "int"
+  },
+  "801": {
+    "value": 5,
+    "type": "int"
+  },
+  "802": {
+    "value": 2,
+    "type": "int"
+  },
+  "803": {
+    "value": 2,
+    "type": "int"
+  },
+  "804": {
+    "value": 2,
+    "type": "int"
+  },
+  "807": {
+    "value": 10,
+    "type": "int"
+  },
+  "808": {
+    "value": 30,
+    "type": "int"
+  },
+  "809": {
+    "value": 54,
+    "type": "int"
+  },
+  "810": {
+    "value": 0.278,
+    "type": "float"
+  },
+  "811": {
+    "value": "\\binom{6}{2} (2a)^4 \\left(-\\frac{b}{3}\\right)^2 = 15 \\cdot 16a^4 \\cdot \\frac{1}{9}b^2 = \\frac{240}{9}a^4b^2 = \\frac{80}{3}a^4b^2$",
+    "type": "math_expression"
+  },
+  "812": {
+    "value": 8,
+    "type": "int"
+  },
+  "813": {
+    "value": 302,
+    "type": "int"
+  },
+  "814": {
+    "value": 6,
+    "type": "int"
+  },
+  "815": {
+    "value": 4,
+    "type": "int"
+  },
+  "817": {
+    "value": 4,
+    "type": "int"
+  },
+  "820": {
+    "value": 3,
+    "type": "int"
+  },
+  "821": {
+    "value": 10.98,
+    "type": "float"
+  },
+  "823": {
+    "value": 0.007,
+    "type": "float"
+  },
+  "824": {
+    "value": 1,
+    "type": "int"
+  },
+  "829": {
+    "value": 1,
+    "type": "int"
+  },
+  "830": {
+    "value": 5,
+    "type": "int"
+  },
+  "831": {
+    "value": 3,
+    "type": "int"
+  },
+  "834": {
+    "value": 3,
+    "type": "int"
+  },
+  "835": {
+    "value": 420,
+    "type": "int"
+  },
+  "838": {
+    "value": 3,
+    "type": "int"
+  },
+  "839": {
+    "value": 5,
+    "type": "int"
+  },
+  "840": {
+    "value": 50,
+    "type": "int"
+  },
+  "841": {
+    "value": 0,
+    "type": "int"
+  },
+  "842": {
+    "value": 11,
+    "type": "int"
+  },
+  "843": {
+    "value": 3,
+    "type": "int"
+  },
+  "844": {
+    "value": 32,
+    "type": "int"
+  },
+  "845": {
+    "value": 10,
+    "type": "int"
+  },
+  "846": {
+    "value": 11,
+    "type": "int"
+  },
+  "847": {
+    "value": 8,
+    "type": "int"
+  },
+  "849": {
+    "value": 1000,
+    "type": "int"
+  },
+  "851": {
+    "value": 5,
+    "type": "int"
+  },
+  "853": {
+    "value": "(4!) \\times 4$",
+    "type": "math_expression"
+  },
+  "855": {
+    "value": 36,
+    "type": "int"
+  },
+  "860": {
+    "value": "\\frac{4 \\cdot \\binom{39}{5} + \\binom{48}{5}}{\\binom{52}{5}}",
+    "type": "math_expression"
+  },
+  "861": {
+    "value": 120,
+    "type": "int"
+  },
+  "862": {
+    "value": 35,
+    "type": "int"
+  },
+  "865": {
+    "value": 1,
+    "type": "int"
+  },
+  "866": {
+    "value": 8,
+    "type": "int"
+  },
+  "867": {
+    "value": 11,
+    "type": "int"
+  },
+  "868": {
+    "value": 49,
+    "type": "int"
+  },
+  "871": {
+    "value": 0,
+    "type": "int"
+  },
+  "872": {
+    "value": 8,
+    "type": "int"
+  },
+  "873": {
+    "value": 100,
+    "type": "int"
+  },
+  "874": {
+    "value": 15,
+    "type": "int"
+  },
+  "875": {
+    "value": 1,
+    "type": "int"
+  },
+  "876": {
+    "value": 1,
+    "type": "int"
+  },
+  "877": {
+    "value": 72,
+    "type": "int"
+  },
+  "878": {
+    "value": "n(n-1) = 240$",
+    "type": "math_expression"
+  },
+  "879": {
+    "value": 6,
+    "type": "int"
+  },
+  "880": {
+    "value": 3,
+    "type": "int"
+  },
+  "881": {
+    "value": 4,
+    "type": "int"
+  },
+  "882": {
+    "value": 1,
+    "type": "int"
+  },
+  "883": {
+    "value": 1,
+    "type": "int"
+  },
+  "884": {
+    "value": 6,
+    "type": "int"
+  },
+  "885": {
+    "value": 5,
+    "type": "int"
+  },
+  "887": {
+    "value": 25,
+    "type": "int"
+  },
+  "890": {
+    "value": 3,
+    "type": "int"
+  },
+  "892": {
+    "value": 1,
+    "type": "int"
+  },
+  "893": {
+    "value": 4,
+    "type": "int"
+  },
+  "894": {
+    "value": 9,
+    "type": "int"
+  },
+  "895": {
+    "value": 30,
+    "type": "int"
+  },
+  "899": {
+    "value": 25,
+    "type": "int"
+  },
+  "900": {
+    "value": 1,
+    "type": "int"
+  },
+  "904": {
+    "value": 16,
+    "type": "int"
+  },
+  "905": {
+    "value": 1,
+    "type": "int"
+  },
+  "906": {
+    "value": 10,
+    "type": "int"
+  },
+  "908": {
+    "value": 16,
+    "type": "int"
+  },
+  "910": {
+    "value": 6,
+    "type": "int"
+  },
+  "911": {
+    "value": 5,
+    "type": "int"
+  },
+  "912": {
+    "value": 1,
+    "type": "int"
+  },
+  "913": {
+    "value": 7,
+    "type": "int"
+  },
+  "917": {
+    "value": 4,
+    "type": "int"
+  },
+  "923": {
+    "value": 1,
+    "type": "int"
+  },
+  "931": {
+    "value": "\\theta$",
+    "type": "math_expression"
+  },
+  "934": {
+    "value": 11,
+    "type": "int"
+  },
+  "936": {
+    "value": 0,
+    "type": "int"
+  },
+  "937": {
+    "value": 4,
+    "type": "int"
+  },
+  "949": {
+    "value": "(-2 - \\sqrt{3} + (-2 - \\sqrt{3})i)$",
+    "type": "math_expression"
+  },
+  "952": {
+    "value": 1,
+    "type": "int"
+  },
+  "955": {
+    "value": 144,
+    "type": "int"
+  },
+  "958": {
+    "value": 60,
+    "type": "int"
+  },
+  "959": {
+    "value": "r = \\cos 2\\theta \\sec \\theta$",
+    "type": "math_expression"
+  },
+  "965": {
+    "value": "\\cos^2 \\angle GOM = \\cos^2 \\left(\\frac{2\\pi}{7}\\right)$",
+    "type": "math_expression"
+  },
+  "969": {
+    "value": 2,
+    "type": "int"
+  },
+  "971": {
+    "value": 1,
+    "type": "int"
+  },
+  "974": {
+    "value": 2,
+    "type": "int"
+  },
+  "975": {
+    "value": "2^{1/2} + 2^{1/2}e^{i\\pi/6} + 2^{1/2}e^{i\\pi/2} + 2^{1/2}e^{5i\\pi/6} = 2^{1/2}(1 + \\sqrt{3}i + i - \\sqrt{3}i) = 2^{1/2}(1 + i) = \\sqrt{2}(1 + i)$",
+    "type": "math_expression"
+  },
+  "977": {
+    "value": 2,
+    "type": "int"
+  },
+  "989": {
+    "value": "0, \\frac{\\sqrt{3}}{2}$",
+    "type": "math_expression"
+  },
+  "990": {
+    "value": "\\frac{25\\sqrt{3}}{4}$",
+    "type": "math_expression"
+  },
+  "995": {
+    "value": 45,
+    "type": "int"
+  },
+  "1001": {
+    "value": 3,
+    "type": "int"
+  },
+  "1007": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "1008": {
+    "value": 4,
+    "type": "int"
+  },
+  "1013": {
+    "value": 7,
+    "type": "int"
+  },
+  "1014": {
+    "value": 0,
+    "type": "int"
+  },
+  "1022": {
+    "value": 1,
+    "type": "int"
+  },
+  "1023": {
+    "value": 1,
+    "type": "int"
+  },
+  "1028": {
+    "value": 6,
+    "type": "int"
+  },
+  "1032": {
+    "value": 1,
+    "type": "int"
+  },
+  "1037": {
+    "value": -1,
+    "type": "int"
+  },
+  "1056": {
+    "value": 12,
+    "type": "int"
+  },
+  "1063": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "1070": {
+    "value": 22,
+    "type": "int"
+  },
+  "1072": {
+    "value": 1,
+    "type": "int"
+  },
+  "1073": {
+    "value": -1,
+    "type": "int"
+  },
+  "1074": {
+    "value": 2,
+    "type": "int"
+  },
+  "1079": {
+    "value": "\\sin C = \\frac{7}{25}, \\frac{24}{25}$",
+    "type": "math_expression"
+  },
+  "1080": {
+    "value": 2,
+    "type": "int"
+  },
+  "1081": {
+    "value": 35,
+    "type": "int"
+  },
+  "1091": {
+    "value": 1,
+    "type": "int"
+  },
+  "1093": {
+    "value": 1,
+    "type": "int"
+  },
+  "1094": {
+    "value": 29,
+    "type": "int"
+  },
+  "1095": {
+    "value": 1,
+    "type": "int"
+  },
+  "1098": {
+    "value": 0,
+    "type": "int"
+  },
+  "1100": {
+    "value": 1,
+    "type": "int"
+  },
+  "1105": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "1110": {
+    "value": 0,
+    "type": "int"
+  },
+  "1111": {
+    "value": "2R^2$",
+    "type": "math_expression"
+  },
+  "1116": {
+    "value": "y(t) = \\frac{3}{2}(-2 + 4t) - 2$",
+    "type": "math_expression"
+  },
+  "1119": {
+    "value": "\\sin 30^\\circ = \\frac{1}{2}$",
+    "type": "math_expression"
+  },
+  "1120": {
+    "value": 1,
+    "type": "int"
+  },
+  "1122": {
+    "value": 0,
+    "type": "int"
+  },
+  "1126": {
+    "value": 1729,
+    "type": "int"
+  },
+  "1129": {
+    "value": 4,
+    "type": "int"
+  },
+  "1135": {
+    "value": "\\mathbf{R} = \\begin{pmatrix} 1 & 0 & 0 \\\\ 0 & 1 & 0 \\\\ 0 & 0 & -1 \\end{pmatrix}$",
+    "type": "math_expression"
+  },
+  "1141": {
+    "value": -1,
+    "type": "int"
+  },
+  "1143": {
+    "value": 4,
+    "type": "int"
+  },
+  "1145": {
+    "value": 1,
+    "type": "int"
+  },
+  "1149": {
+    "value": 2,
+    "type": "int"
+  },
+  "1154": {
+    "value": "S$",
+    "type": "math_expression"
+  },
+  "1155": {
+    "value": 1,
+    "type": "int"
+  },
+  "1157": {
+    "value": 0,
+    "type": "int"
+  },
+  "1159": {
+    "value": 5,
+    "type": "int"
+  },
+  "1164": {
+    "value": 64,
+    "type": "int"
+  },
+  "1165": {
+    "value": 12.5,
+    "type": "float"
+  },
+  "1166": {
+    "value": 12,
+    "type": "int"
+  },
+  "1167": {
+    "value": "150 - H$",
+    "type": "math_expression"
+  },
+  "1170": {
+    "value": 5,
+    "type": "int"
+  },
+  "1171": {
+    "value": 6,
+    "type": "int"
+  },
+  "1173": {
+    "value": 1,
+    "type": "int"
+  },
+  "1174": {
+    "value": -2,
+    "type": "int"
+  },
+  "1176": {
+    "value": 288,
+    "type": "int"
+  },
+  "1177": {
+    "value": 1,
+    "type": "int"
+  },
+  "1178": {
+    "value": 50,
+    "type": "int"
+  },
+  "1180": {
+    "value": 5760,
+    "type": "int"
+  },
+  "1181": {
+    "value": 5,
+    "type": "int"
+  },
+  "1182": {
+    "value": 1,
+    "type": "int"
+  },
+  "1186": {
+    "value": 72,
+    "type": "int"
+  },
+  "1187": {
+    "value": 3,
+    "type": "int"
+  },
+  "1189": {
+    "value": "PQ/AQ$",
+    "type": "math_expression"
+  },
+  "1190": {
+    "value": 180,
+    "type": "int"
+  },
+  "1191": {
+    "value": 1,
+    "type": "int"
+  },
+  "1192": {
+    "value": "\\cos 1050^\\circ = \\cos 330^\\circ = \\cos (-30^\\circ) = \\cos 30^\\circ = \\frac{\\sqrt{3}}{2}$",
+    "type": "math_expression"
+  },
+  "1193": {
+    "value": 27,
+    "type": "int"
+  },
+  "1197": {
+    "value": 8,
+    "type": "int"
+  },
+  "1200": {
+    "value": 4,
+    "type": "int"
+  },
+  "1201": {
+    "value": 206,
+    "type": "int"
+  },
+  "1203": {
+    "value": 12,
+    "type": "int"
+  },
+  "1205": {
+    "value": 196,
+    "type": "int"
+  },
+  "1206": {
+    "value": "-\\frac{1}{\\sqrt{3}}$",
+    "type": "math_expression"
+  },
+  "1208": {
+    "value": 4,
+    "type": "int"
+  },
+  "1209": {
+    "value": 2,
+    "type": "int"
+  },
+  "1210": {
+    "value": "AD:DB$",
+    "type": "math_expression"
+  },
+  "1214": {
+    "value": 1,
+    "type": "int"
+  },
+  "1215": {
+    "value": -3,
+    "type": "int"
+  },
+  "1217": {
+    "value": 64,
+    "type": "int"
+  },
+  "1220": {
+    "value": 6,
+    "type": "int"
+  },
+  "1221": {
+    "value": "\\angle BCA = 180^\\circ - 43^\\circ - 67^\\circ = 70^\\circ$",
+    "type": "math_expression"
+  },
+  "1224": {
+    "value": -2,
+    "type": "int"
+  },
+  "1229": {
+    "value": 1,
+    "type": "int"
+  },
+  "1231": {
+    "value": "\\angle ABD = \\angle BAD = \\frac{180^\\circ - 50^\\circ}{2} = 65^\\circ$",
+    "type": "math_expression"
+  },
+  "1232": {
+    "value": 8,
+    "type": "int"
+  },
+  "1235": {
+    "value": 1,
+    "type": "int"
+  },
+  "1237": {
+    "value": "\\cos \\angle RPQ$",
+    "type": "math_expression"
+  },
+  "1238": {
+    "value": 1,
+    "type": "int"
+  },
+  "1243": {
+    "value": "AB$",
+    "type": "math_expression"
+  },
+  "1244": {
+    "value": 2,
+    "type": "int"
+  },
+  "1248": {
+    "value": "\\angle ACB = 180^\\circ - 54^\\circ - 52^\\circ = 74^\\circ$",
+    "type": "math_expression"
+  },
+  "1254": {
+    "value": 4,
+    "type": "int"
+  },
+  "1255": {
+    "value": 38,
+    "type": "int"
+  },
+  "1260": {
+    "value": 100.0,
+    "type": "float"
+  },
+  "1261": {
+    "value": 3,
+    "type": "int"
+  },
+  "1262": {
+    "value": 110,
+    "type": "int"
+  },
+  "1264": {
+    "value": 2,
+    "type": "int"
+  },
+  "1269": {
+    "value": 60,
+    "type": "int"
+  },
+  "1270": {
+    "value": "0.75 \\times (4\\pi r^3/3) = \\pi r^2 h/3$",
+    "type": "math_expression"
+  },
+  "1272": {
+    "value": 1,
+    "type": "int"
+  },
+  "1273": {
+    "value": 59,
+    "type": "int"
+  },
+  "1275": {
+    "value": 2,
+    "type": "int"
+  },
+  "1277": {
+    "value": 8,
+    "type": "int"
+  },
+  "1280": {
+    "value": "\\frac{3\\pi}{4}$",
+    "type": "math_expression"
+  },
+  "1282": {
+    "value": 7,
+    "type": "int"
+  },
+  "1289": {
+    "value": 32,
+    "type": "int"
+  },
+  "1292": {
+    "value": 3,
+    "type": "int"
+  },
+  "1295": {
+    "value": 1,
+    "type": "int"
+  },
+  "1296": {
+    "value": 2,
+    "type": "int"
+  },
+  "1299": {
+    "value": 27,
+    "type": "int"
+  },
+  "1300": {
+    "value": 4,
+    "type": "int"
+  },
+  "1301": {
+    "value": 2,
+    "type": "int"
+  },
+  "1302": {
+    "value": "\\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "1308": {
+    "value": 22,
+    "type": "int"
+  },
+  "1309": {
+    "value": 36,
+    "type": "int"
+  },
+  "1310": {
+    "value": 68,
+    "type": "int"
+  },
+  "1311": {
+    "value": 6.5,
+    "type": "float"
+  },
+  "1315": {
+    "value": 3,
+    "type": "int"
+  },
+  "1317": {
+    "value": "2\\pi r^2 + 2\\pi r h$",
+    "type": "math_expression"
+  },
+  "1320": {
+    "value": 290,
+    "type": "int"
+  },
+  "1321": {
+    "value": 0,
+    "type": "int"
+  },
+  "1322": {
+    "value": 21,
+    "type": "int"
+  },
+  "1324": {
+    "value": "s = (10 + 17 + 21)/2 = 24$",
+    "type": "math_expression"
+  },
+  "1325": {
+    "value": 4,
+    "type": "int"
+  },
+  "1326": {
+    "value": 15,
+    "type": "int"
+  },
+  "1327": {
+    "value": 4,
+    "type": "int"
+  },
+  "1328": {
+    "value": "-\\frac{\\sqrt{6} + \\sqrt{2}}{4}$",
+    "type": "math_expression"
+  },
+  "1329": {
+    "value": 3,
+    "type": "int"
+  },
+  "1330": {
+    "value": "AK$",
+    "type": "math_expression"
+  },
+  "1331": {
+    "value": 3,
+    "type": "int"
+  },
+  "1335": {
+    "value": 1,
+    "type": "int"
+  },
+  "1337": {
+    "value": 36,
+    "type": "int"
+  },
+  "1338": {
+    "value": 13,
+    "type": "int"
+  },
+  "1339": {
+    "value": 2,
+    "type": "int"
+  },
+  "1341": {
+    "value": 6,
+    "type": "int"
+  },
+  "1342": {
+    "value": 4,
+    "type": "int"
+  },
+  "1344": {
+    "value": 3,
+    "type": "int"
+  },
+  "1346": {
+    "value": 1,
+    "type": "int"
+  },
+  "1347": {
+    "value": 10,
+    "type": "int"
+  },
+  "1348": {
+    "value": "r/s = \\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "1351": {
+    "value": 2,
+    "type": "int"
+  },
+  "1357": {
+    "value": 90,
+    "type": "int"
+  },
+  "1359": {
+    "value": 60,
+    "type": "int"
+  },
+  "1361": {
+    "value": " A = 2(1 + \\sqrt{2})s^2 = 1 ",
+    "type": "math_expression"
+  },
+  "1364": {
+    "value": "d = \\sqrt{6^2 + 6^2} = \\sqrt{72} = 6\\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "1369": {
+    "value": 2,
+    "type": "int"
+  },
+  "1370": {
+    "value": 2,
+    "type": "int"
+  },
+  "1372": {
+    "value": "AC$",
+    "type": "math_expression"
+  },
+  "1373": {
+    "value": 3,
+    "type": "int"
+  },
+  "1375": {
+    "value": 2,
+    "type": "int"
+  },
+  "1376": {
+    "value": 8,
+    "type": "int"
+  },
+  "1377": {
+    "value": 90,
+    "type": "int"
+  },
+  "1379": {
+    "value": 150,
+    "type": "int"
+  },
+  "1382": {
+    "value": 3,
+    "type": "int"
+  },
+  "1383": {
+    "value": "R = \\frac{6}{\\sqrt{3}} = 2\\sqrt{3}$",
+    "type": "math_expression"
+  },
+  "1385": {
+    "value": "\\left(\\frac{-3+5}{2}, \\frac{5+3}{2}\\right) = (1, 4)$",
+    "type": "math_expression"
+  },
+  "1387": {
+    "value": 37.5,
+    "type": "float"
+  },
+  "1390": {
+    "value": "AB + BC + CD + DE + EF + FG + GH + HA = 1 + 2 + 3 + 4 + 2 + 2 + 1 + 4 = 19$",
+    "type": "math_expression"
+  },
+  "1391": {
+    "value": 64,
+    "type": "int"
+  },
+  "1392": {
+    "value": "\\frac{4}{3}\\pi r^3 = \\frac{2}{3}\\pi r^2 (2r)$",
+    "type": "math_expression"
+  },
+  "1394": {
+    "value": 12,
+    "type": "int"
+  },
+  "1396": {
+    "value": 2,
+    "type": "int"
+  },
+  "1397": {
+    "value": "\\frac{13.5}{3} = 4.5$",
+    "type": "math_expression"
+  },
+  "1400": {
+    "value": 1,
+    "type": "int"
+  },
+  "1403": {
+    "value": "ACD$",
+    "type": "math_expression"
+  },
+  "1404": {
+    "value": 20,
+    "type": "int"
+  },
+  "1405": {
+    "value": "BR$",
+    "type": "math_expression"
+  },
+  "1407": {
+    "value": 2,
+    "type": "int"
+  },
+  "1410": {
+    "value": 1,
+    "type": "int"
+  },
+  "1411": {
+    "value": "\\tan 300^\\circ = \\tan (-60^\\circ) = -\\tan 60^\\circ = -\\sqrt{3}$",
+    "type": "math_expression"
+  },
+  "1412": {
+    "value": 1,
+    "type": "int"
+  },
+  "1413": {
+    "value": 7,
+    "type": "int"
+  },
+  "1415": {
+    "value": 20,
+    "type": "int"
+  },
+  "1416": {
+    "value": "-\\frac{\\sqrt{3}}{2}$",
+    "type": "math_expression"
+  },
+  "1420": {
+    "value": 2,
+    "type": "int"
+  },
+  "1421": {
+    "value": 100,
+    "type": "int"
+  },
+  "1422": {
+    "value": 24000,
+    "type": "int"
+  },
+  "1426": {
+    "value": 7,
+    "type": "int"
+  },
+  "1427": {
+    "value": 14,
+    "type": "int"
+  },
+  "1428": {
+    "value": "x^2$",
+    "type": "math_expression"
+  },
+  "1429": {
+    "value": 24,
+    "type": "int"
+  },
+  "1430": {
+    "value": 9,
+    "type": "int"
+  },
+  "1436": {
+    "value": -4,
+    "type": "int"
+  },
+  "1437": {
+    "value": 2,
+    "type": "int"
+  },
+  "1438": {
+    "value": "k$",
+    "type": "math_expression"
+  },
+  "1441": {
+    "value": "(z^2 -3z+2)(z^3 + 4z-2) = z^2(z^3) + z^2(4z) + z^2(-2) - 3z(z^3) - 3z(4z) - 3z(-2) + 2(z^3) + 2(4z) + 2(-2)$",
+    "type": "math_expression"
+  },
+  "1442": {
+    "value": 10000,
+    "type": "int"
+  },
+  "1444": {
+    "value": 1,
+    "type": "int"
+  },
+  "1445": {
+    "value": "(a - 1)(b - 1) = ab - a - b + 1 = 9 - 5 + 1 = 5$",
+    "type": "math_expression"
+  },
+  "1446": {
+    "value": "(-4x^2+2)(4x^2+x+1)$",
+    "type": "math_expression"
+  },
+  "1447": {
+    "value": "f(x) = 4$",
+    "type": "math_expression"
+  },
+  "1450": {
+    "value": 6,
+    "type": "int"
+  },
+  "1452": {
+    "value": 2,
+    "type": "int"
+  },
+  "1455": {
+    "value": "n = \\frac{86 - 28}{2} + 1 = \\frac{58}{2} + 1 = 29 + 1 = 30$",
+    "type": "math_expression"
+  },
+  "1456": {
+    "value": "\\sqrt{(3 - (-1))^2 + (2 - (-2))^2} = \\sqrt{16} = 4$",
+    "type": "math_expression"
+  },
+  "1457": {
+    "value": "t = \\frac{-43 + \\sqrt{43^2 - 4(-6)(-77)}}{2(-6)}$",
+    "type": "math_expression"
+  },
+  "1469": {
+    "value": 8,
+    "type": "int"
+  },
+  "1472": {
+    "value": "\\left \\lfloor 52/3 \\right. = 17$",
+    "type": "math_expression"
+  },
+  "1474": {
+    "value": 3,
+    "type": "int"
+  },
+  "1475": {
+    "value": 10000,
+    "type": "int"
+  },
+  "1476": {
+    "value": "k = \\pm 2\\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "1477": {
+    "value": "a = -\\frac{1}{4}$",
+    "type": "math_expression"
+  },
+  "1478": {
+    "value": "r$",
+    "type": "math_expression"
+  },
+  "1481": {
+    "value": 16,
+    "type": "int"
+  },
+  "1482": {
+    "value": "x^2 - 5x - 14 = (x - 7)(x + 2)$",
+    "type": "math_expression"
+  },
+  "1483": {
+    "value": 2,
+    "type": "int"
+  },
+  "1485": {
+    "value": 512,
+    "type": "int"
+  },
+  "1490": {
+    "value": -8192,
+    "type": "int"
+  },
+  "1493": {
+    "value": 3600,
+    "type": "int"
+  },
+  "1494": {
+    "value": -30,
+    "type": "int"
+  },
+  "1498": {
+    "value": "(x + 7)(x - 3) = 0$",
+    "type": "math_expression"
+  },
+  "1499": {
+    "value": 3,
+    "type": "int"
+  },
+  "1500": {
+    "value": "r$",
+    "type": "math_expression"
+  },
+  "1503": {
+    "value": "t = \\frac{-(-60) + \\sqrt{(-60)^2 - 4(-16)(54)}}{2(-16)} = \\frac{60 + \\sqrt{3600 + 3456}}{-32} = \\frac{60 + \\sqrt{7056}}{-32} = \\frac{60 + 84}{-32} = \\frac{144}{-32} = -4.5$",
+    "type": "math_expression"
+  },
+  "1505": {
+    "value": 0,
+    "type": "int"
+  },
+  "1507": {
+    "value": 2,
+    "type": "int"
+  },
+  "1509": {
+    "value": "x = 5$",
+    "type": "math_expression"
+  },
+  "1510": {
+    "value": 15.75,
+    "type": "float"
+  },
+  "1511": {
+    "value": 3,
+    "type": "int"
+  },
+  "1515": {
+    "value": 10,
+    "type": "int"
+  },
+  "1516": {
+    "value": "f(x)=\\frac{2x-7}{\\sqrt{x^2-5x+6}}$",
+    "type": "math_expression"
+  },
+  "1518": {
+    "value": 15,
+    "type": "int"
+  },
+  "1520": {
+    "value": -1,
+    "type": "int"
+  },
+  "1521": {
+    "value": "(2x-1)(x-1) = (x-3)(2x+2)$",
+    "type": "math_expression"
+  },
+  "1522": {
+    "value": "1200 - 650 = $",
+    "type": "math_expression"
+  },
+  "1523": {
+    "value": 2,
+    "type": "int"
+  },
+  "1524": {
+    "value": 1,
+    "type": "int"
+  },
+  "1525": {
+    "value": 2,
+    "type": "int"
+  },
+  "1528": {
+    "value": 256,
+    "type": "int"
+  },
+  "1529": {
+    "value": 3.21,
+    "type": "float"
+  },
+  "1531": {
+    "value": 120,
+    "type": "int"
+  },
+  "1532": {
+    "value": 1,
+    "type": "int"
+  },
+  "1537": {
+    "value": 6,
+    "type": "int"
+  },
+  "1538": {
+    "value": "5x - |x - 5| = 5x - (-(x - 5)) = 5x + x - 5 = 6x - 5$",
+    "type": "math_expression"
+  },
+  "1539": {
+    "value": 37,
+    "type": "int"
+  },
+  "1540": {
+    "value": 4,
+    "type": "int"
+  },
+  "1542": {
+    "value": 100,
+    "type": "int"
+  },
+  "1543": {
+    "value": -6,
+    "type": "int"
+  },
+  "1545": {
+    "value": "f(i) = i^2 = -1$",
+    "type": "math_expression"
+  },
+  "1546": {
+    "value": "2x + 5 = -3$",
+    "type": "math_expression"
+  },
+  "1547": {
+    "value": 1,
+    "type": "int"
+  },
+  "1548": {
+    "value": 5,
+    "type": "int"
+  },
+  "1549": {
+    "value": 7,
+    "type": "int"
+  },
+  "1554": {
+    "value": "36-4x^2 = (6)^2 - (2x)^2 = (6 + 2x)(6 - 2x)$",
+    "type": "math_expression"
+  },
+  "1555": {
+    "value": "f(10) = 0.1$",
+    "type": "math_expression"
+  },
+  "1559": {
+    "value": 1,
+    "type": "int"
+  },
+  "1561": {
+    "value": "x^2 + 6x + y^2 + 3 = -4y + 6$",
+    "type": "math_expression"
+  },
+  "1563": {
+    "value": "d$",
+    "type": "math_expression"
+  },
+  "1564": {
+    "value": 375,
+    "type": "int"
+  },
+  "1565": {
+    "value": 3.0,
+    "type": "float"
+  },
+  "1567": {
+    "value": 20,
+    "type": "int"
+  },
+  "1568": {
+    "value": 1,
+    "type": "int"
+  },
+  "1571": {
+    "value": 364,
+    "type": "int"
+  },
+  "1572": {
+    "value": 1,
+    "type": "int"
+  },
+  "1573": {
+    "value": 5,
+    "type": "int"
+  },
+  "1575": {
+    "value": "C(t)$",
+    "type": "math_expression"
+  },
+  "1577": {
+    "value": 10,
+    "type": "int"
+  },
+  "1579": {
+    "value": "\\sqrt{(10 - (-2))^2 + (-2 - 3)^2} = \\sqrt{12^2 + (-5)^2} = \\sqrt{144 + 25} = \\sqrt{169} = 13$",
+    "type": "math_expression"
+  },
+  "1580": {
+    "value": "\\frac{c^2 + 6c -27}{c-3} +2c = 23$",
+    "type": "math_expression"
+  },
+  "1581": {
+    "value": "2x^2 + 13x + 6 = 0$",
+    "type": "math_expression"
+  },
+  "1583": {
+    "value": "t = -\\frac{75}{2(-25)} = \\frac{75}{50} = 1.5$",
+    "type": "math_expression"
+  },
+  "1584": {
+    "value": "9 + (-8) = 1$",
+    "type": "math_expression"
+  },
+  "1585": {
+    "value": 1,
+    "type": "int"
+  },
+  "1587": {
+    "value": 440,
+    "type": "int"
+  },
+  "1588": {
+    "value": "\\sqrt{9 + (b - 2)^2} = 5$",
+    "type": "math_expression"
+  },
+  "1590": {
+    "value": 2,
+    "type": "int"
+  },
+  "1592": {
+    "value": 2,
+    "type": "int"
+  },
+  "1595": {
+    "value": 64,
+    "type": "int"
+  },
+  "1598": {
+    "value": 1,
+    "type": "int"
+  },
+  "1599": {
+    "value": 0,
+    "type": "int"
+  },
+  "1600": {
+    "value": -8,
+    "type": "int"
+  },
+  "1601": {
+    "value": "3x-7y=65$",
+    "type": "math_expression"
+  },
+  "1603": {
+    "value": "g(x)$",
+    "type": "math_expression"
+  },
+  "1604": {
+    "value": 14,
+    "type": "int"
+  },
+  "1605": {
+    "value": "5^{-2x - 4} = 5^{-3x}$",
+    "type": "math_expression"
+  },
+  "1606": {
+    "value": "(a, b)$",
+    "type": "math_expression"
+  },
+  "1607": {
+    "value": 5,
+    "type": "int"
+  },
+  "1608": {
+    "value": "h$",
+    "type": "math_expression"
+  },
+  "1610": {
+    "value": -10,
+    "type": "int"
+  },
+  "1611": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "1612": {
+    "value": 0,
+    "type": "int"
+  },
+  "1619": {
+    "value": 6,
+    "type": "int"
+  },
+  "1620": {
+    "value": 1,
+    "type": "int"
+  },
+  "1621": {
+    "value": 1,
+    "type": "int"
+  },
+  "1625": {
+    "value": "3^2 = 9$",
+    "type": "math_expression"
+  },
+  "1626": {
+    "value": 13,
+    "type": "int"
+  },
+  "1628": {
+    "value": 6,
+    "type": "int"
+  },
+  "1630": {
+    "value": 10,
+    "type": "int"
+  },
+  "1632": {
+    "value": "(A, B) = (5, -1)$",
+    "type": "math_expression"
+  },
+  "1633": {
+    "value": "Z=2-i$",
+    "type": "math_expression"
+  },
+  "1635": {
+    "value": -2,
+    "type": "int"
+  },
+  "1637": {
+    "value": "x^2 - 5x - 14$",
+    "type": "math_expression"
+  },
+  "1641": {
+    "value": 6,
+    "type": "int"
+  },
+  "1644": {
+    "value": "x \\le 3$",
+    "type": "math_expression"
+  },
+  "1645": {
+    "value": 64,
+    "type": "int"
+  },
+  "1646": {
+    "value": 4,
+    "type": "int"
+  },
+  "1647": {
+    "value": 70,
+    "type": "int"
+  },
+  "1648": {
+    "value": 23,
+    "type": "int"
+  },
+  "1651": {
+    "value": "m$",
+    "type": "math_expression"
+  },
+  "1652": {
+    "value": 3,
+    "type": "int"
+  },
+  "1653": {
+    "value": "(2,3)$",
+    "type": "math_expression"
+  },
+  "1654": {
+    "value": "f(x) = x^2 - 8x + 15$",
+    "type": "math_expression"
+  },
+  "1655": {
+    "value": 2,
+    "type": "int"
+  },
+  "1656": {
+    "value": "-x^7 + 4x^5 - 2x^2$",
+    "type": "math_expression"
+  },
+  "1657": {
+    "value": "g^2$",
+    "type": "math_expression"
+  },
+  "1658": {
+    "value": 10000,
+    "type": "int"
+  },
+  "1659": {
+    "value": -2,
+    "type": "int"
+  },
+  "1660": {
+    "value": 5,
+    "type": "int"
+  },
+  "1661": {
+    "value": 420,
+    "type": "int"
+  },
+  "1663": {
+    "value": 6,
+    "type": "int"
+  },
+  "1664": {
+    "value": 6,
+    "type": "int"
+  },
+  "1665": {
+    "value": 2,
+    "type": "int"
+  },
+  "1666": {
+    "value": -6,
+    "type": "int"
+  },
+  "1667": {
+    "value": "-6/(2*1) = -3$",
+    "type": "math_expression"
+  },
+  "1668": {
+    "value": 13,
+    "type": "int"
+  },
+  "1669": {
+    "value": "-6x^2+11x-4=0",
+    "type": "math_expression"
+  },
+  "1670": {
+    "value": 5103,
+    "type": "int"
+  },
+  "1672": {
+    "value": 14,
+    "type": "int"
+  },
+  "1674": {
+    "value": 3.25,
+    "type": "float"
+  },
+  "1677": {
+    "value": "6(24 - (-6)) = 6(24 + 6) = 6(30) = 180$",
+    "type": "math_expression"
+  },
+  "1678": {
+    "value": "a$",
+    "type": "math_expression"
+  },
+  "1681": {
+    "value": -2,
+    "type": "int"
+  },
+  "1682": {
+    "value": 1,
+    "type": "int"
+  },
+  "1684": {
+    "value": "15 - 4(5-a)^2 \\div 3 = 63$",
+    "type": "math_expression"
+  },
+  "1688": {
+    "value": 0,
+    "type": "int"
+  },
+  "1689": {
+    "value": "s=9-2t$",
+    "type": "math_expression"
+  },
+  "1691": {
+    "value": 16,
+    "type": "int"
+  },
+  "1693": {
+    "value": 2,
+    "type": "int"
+  },
+  "1694": {
+    "value": 2,
+    "type": "int"
+  },
+  "1700": {
+    "value": "-(-8)/(2(-1)) = 4$",
+    "type": "math_expression"
+  },
+  "1703": {
+    "value": "h(x)$",
+    "type": "math_expression"
+  },
+  "1705": {
+    "value": "-3a + 6 \\geq 0 \\Rightarrow -3a \\geq -6 \\Rightarrow a \\leq 2$",
+    "type": "math_expression"
+  },
+  "1706": {
+    "value": "k = -4 - \\frac{1}{12} = -\\frac{49}{12}$",
+    "type": "math_expression"
+  },
+  "1707": {
+    "value": 16,
+    "type": "int"
+  },
+  "1708": {
+    "value": " S = \\frac{\\frac{3}{206}}{1 - \\frac{3}{103}} = \\frac{3}{206 - 3} = \\frac{3}{203} ",
+    "type": "math_expression"
+  },
+  "1709": {
+    "value": "2x^2+3y^2+8x-24y+62 = 2(x^2+4x+4) + 3(y^2-8y+16) + 62 - 2(4) - 3(16)$",
+    "type": "math_expression"
+  },
+  "1710": {
+    "value": 6,
+    "type": "int"
+  },
+  "1712": {
+    "value": 1,
+    "type": "int"
+  },
+  "1713": {
+    "value": 6,
+    "type": "int"
+  },
+  "1715": {
+    "value": 4,
+    "type": "int"
+  },
+  "1716": {
+    "value": "x = -y$",
+    "type": "math_expression"
+  },
+  "1718": {
+    "value": "x^3$",
+    "type": "math_expression"
+  },
+  "1719": {
+    "value": 17,
+    "type": "int"
+  },
+  "1720": {
+    "value": "k$",
+    "type": "math_expression"
+  },
+  "1721": {
+    "value": "f(x)-f^{-1}(x)$",
+    "type": "math_expression"
+  },
+  "1722": {
+    "value": "3(x - 4) = 3x - 12$",
+    "type": "math_expression"
+  },
+  "1724": {
+    "value": 3,
+    "type": "int"
+  },
+  "1726": {
+    "value": "a$",
+    "type": "math_expression"
+  },
+  "1727": {
+    "value": 45,
+    "type": "int"
+  },
+  "1731": {
+    "value": "(a-1)(a+1)(a+2) - (a-2)(a+1) = (a^2 - 1)(a+2) - (a^2 - 2a) = a^3 + 2a^2 - a - 2 - a^2 + 2a = a^3 + a^2 + a - 2$",
+    "type": "math_expression"
+  },
+  "1733": {
+    "value": 16,
+    "type": "int"
+  },
+  "1734": {
+    "value": "x = \\frac{36}{7}$",
+    "type": "math_expression"
+  },
+  "1736": {
+    "value": "a + b + c = 1 + 3 + 2 = 6$",
+    "type": "math_expression"
+  },
+  "1737": {
+    "value": "x^2+y^2 = (x+y)^2 - 2xy = 14^2 - 2(19) = 196 - 38 = 158$",
+    "type": "math_expression"
+  },
+  "1740": {
+    "value": 4,
+    "type": "int"
+  },
+  "1742": {
+    "value": 3,
+    "type": "int"
+  },
+  "1743": {
+    "value": 244,
+    "type": "int"
+  },
+  "1744": {
+    "value": 7,
+    "type": "int"
+  },
+  "1745": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "1746": {
+    "value": 5,
+    "type": "int"
+  },
+  "1747": {
+    "value": "x^2 + 9 = 10$",
+    "type": "math_expression"
+  },
+  "1748": {
+    "value": "((2x^2+3x+3)-(x^2+6x-6))(x+3)$",
+    "type": "math_expression"
+  },
+  "1749": {
+    "value": -6,
+    "type": "int"
+  },
+  "1751": {
+    "value": "2x^2 + 6x + 10x + 30 < 3x^2 + 24x + 9x + 72$",
+    "type": "math_expression"
+  },
+  "1752": {
+    "value": 2,
+    "type": "int"
+  },
+  "1753": {
+    "value": 2,
+    "type": "int"
+  },
+  "1754": {
+    "value": "y = x^2 + 2x - 6$",
+    "type": "math_expression"
+  },
+  "1757": {
+    "value": "49 - 4c = 0, 1, 4, 9, 16, 25, 36, 49$",
+    "type": "math_expression"
+  },
+  "1758": {
+    "value": "(-\\infty, -8) \\cup (8, \\infty)$",
+    "type": "math_expression"
+  },
+  "1761": {
+    "value": 3,
+    "type": "int"
+  },
+  "1764": {
+    "value": 9,
+    "type": "int"
+  },
+  "1765": {
+    "value": "Q\\cdot E = (11-5i)(11+5i) = 11^2 - (5i)^2 = 121 - 25(-1) = 121 + 25 = 146$",
+    "type": "math_expression"
+  },
+  "1769": {
+    "value": 48,
+    "type": "int"
+  },
+  "1770": {
+    "value": "x = 1$",
+    "type": "math_expression"
+  },
+  "1771": {
+    "value": 18,
+    "type": "int"
+  },
+  "1772": {
+    "value": "f\\left(\\frac{\\pi}{3}\\right) = \\lceil \\frac{\\pi}{3} \\rceil = \\lceil 1.047 \\rceil = 2$",
+    "type": "math_expression"
+  },
+  "1773": {
+    "value": "f$",
+    "type": "math_expression"
+  },
+  "1774": {
+    "value": "S_{10} = \\frac{1}{2} \\frac{1 - (\\frac{1}{2})^{10}}{1 - \\frac{1}{2}} = \\frac{1}{2} \\frac{1 - \\frac{1}{1024}}{\\frac{1}{2}} = 1 - \\frac{1}{1024} = \\frac{1023}{1024}",
+    "type": "math_expression"
+  },
+  "1775": {
+    "value": "2 = 4c + 10$",
+    "type": "math_expression"
+  },
+  "1776": {
+    "value": "P(0) = 4(0)^3 - 2(0)^2 + 7(0) - 1 = -1$",
+    "type": "math_expression"
+  },
+  "1777": {
+    "value": 6,
+    "type": "int"
+  },
+  "1778": {
+    "value": "6-x-x^2 \\geq 0$",
+    "type": "math_expression"
+  },
+  "1780": {
+    "value": "f(-3) = -3 + 2 = -1$",
+    "type": "math_expression"
+  },
+  "1784": {
+    "value": "7(x+3)(x-3)$",
+    "type": "math_expression"
+  },
+  "1785": {
+    "value": "(-\\sqrt{3}, \\sqrt{3})$",
+    "type": "math_expression"
+  },
+  "1788": {
+    "value": 4,
+    "type": "int"
+  },
+  "1789": {
+    "value": 4,
+    "type": "int"
+  },
+  "1790": {
+    "value": 452,
+    "type": "int"
+  },
+  "1791": {
+    "value": "m+n = -\\frac{-16}{2(3)} + 3(-\\frac{-16}{2(3)})^2 - 16(-\\frac{-16}{2(3)}) + 18 = 2\\frac{2}{3} + 18 = \\frac{64}{3}$",
+    "type": "math_expression"
+  },
+  "1793": {
+    "value": "12^2 \\cdot 18^3 = (2^2 \\cdot 3)^{2} \\cdot (2 \\cdot 3^2)^{3} = 2^{2 \\cdot 2} \\cdot 3^{2+2 \\cdot 3} = 2^4 \\cdot 3^8$",
+    "type": "math_expression"
+  },
+  "1795": {
+    "value": 1,
+    "type": "int"
+  },
+  "1796": {
+    "value": "(-4, 4)$",
+    "type": "math_expression"
+  },
+  "1797": {
+    "value": 10000,
+    "type": "int"
+  },
+  "1799": {
+    "value": 7,
+    "type": "int"
+  },
+  "1800": {
+    "value": "9 \\& 2 = \\frac{\\sqrt{9 \\cdot 2 + 9}}{\\sqrt{9 \\cdot 2 - 2}} = \\frac{\\sqrt{18 + 9}}{\\sqrt{18 - 2}} = \\frac{\\sqrt{27}}{\\sqrt{16}} = \\frac{3\\sqrt{3}}{4}$",
+    "type": "math_expression"
+  },
+  "1805": {
+    "value": 6,
+    "type": "int"
+  },
+  "1808": {
+    "value": "x^3 - 5x^2 - 8x + 12 = 0$",
+    "type": "math_expression"
+  },
+  "1809": {
+    "value": 15,
+    "type": "int"
+  },
+  "1811": {
+    "value": 4,
+    "type": "int"
+  },
+  "1812": {
+    "value": 19,
+    "type": "int"
+  },
+  "1814": {
+    "value": "k = \\frac{7^2 + 15}{4 \\cdot 4} = \\frac{49 + 15}{16} = \\frac{64}{16} = 4$",
+    "type": "math_expression"
+  },
+  "1815": {
+    "value": 30,
+    "type": "int"
+  },
+  "1816": {
+    "value": 2,
+    "type": "int"
+  },
+  "1817": {
+    "value": "f(8) = \\sqrt{8} = 2\\sqrt{2}$",
+    "type": "math_expression"
+  },
+  "1818": {
+    "value": 9,
+    "type": "int"
+  },
+  "1819": {
+    "value": "x^2 - 7 = 0$",
+    "type": "math_expression"
+  },
+  "1822": {
+    "value": 3,
+    "type": "int"
+  },
+  "1824": {
+    "value": 20,
+    "type": "int"
+  },
+  "1825": {
+    "value": "(3.6)^2 = 12.96$",
+    "type": "math_expression"
+  },
+  "1828": {
+    "value": "y^2 - y = x$",
+    "type": "math_expression"
+  },
+  "1830": {
+    "value": 7,
+    "type": "int"
+  },
+  "1831": {
+    "value": 27,
+    "type": "int"
+  },
+  "1832": {
+    "value": 22,
+    "type": "int"
+  },
+  "1835": {
+    "value": 2003,
+    "type": "int"
+  },
+  "1837": {
+    "value": "z = \\frac{3 - 2}{-3i + 2i} = \\frac{1}{-i} = i$",
+    "type": "math_expression"
+  },
+  "1840": {
+    "value": 400,
+    "type": "int"
+  },
+  "1843": {
+    "value": "7\\times 10^{-7}$",
+    "type": "math_expression"
+  },
+  "1844": {
+    "value": 3,
+    "type": "int"
+  },
+  "1845": {
+    "value": 1000,
+    "type": "int"
+  },
+  "1846": {
+    "value": "\\frac{1}{72}$",
+    "type": "math_expression"
+  },
+  "1848": {
+    "value": 128,
+    "type": "int"
+  },
+  "1849": {
+    "value": 2,
+    "type": "int"
+  },
+  "1850": {
+    "value": 1024,
+    "type": "int"
+  },
+  "1851": {
+    "value": 8,
+    "type": "int"
+  },
+  "1853": {
+    "value": 17,
+    "type": "int"
+  },
+  "1855": {
+    "value": "(x+3)(2x-4)(x-6) = (x(2x-4) + 3(2x-4))(x-6) = (2x^2 - 4x + 6x - 12)(x-6) = (2x^2 + 2x - 12)(x-6) = 2x^3 - 12x^2 + 2x^2 - 12x - 6x + 72 = 2x^3 - 10x^2 - 18x + 72$",
+    "type": "math_expression"
+  },
+  "1856": {
+    "value": 5,
+    "type": "int"
+  },
+  "1858": {
+    "value": -8,
+    "type": "int"
+  },
+  "1859": {
+    "value": "f(x)=\\frac{x+2}{x^2-2x-24}$",
+    "type": "math_expression"
+  },
+  "1860": {
+    "value": 405,
+    "type": "int"
+  },
+  "1861": {
+    "value": 291,
+    "type": "int"
+  },
+  "1862": {
+    "value": "f(x)=\\sqrt{\\sqrt{x^2-16}-3}$",
+    "type": "math_expression"
+  },
+  "1864": {
+    "value": "x$",
+    "type": "math_expression"
+  },
+  "1866": {
+    "value": 13,
+    "type": "int"
+  },
+  "1867": {
+    "value": "49 - 12c > 0$",
+    "type": "math_expression"
+  },
+  "1869": {
+    "value": 35,
+    "type": "int"
+  },
+  "1870": {
+    "value": 4,
+    "type": "int"
+  },
+  "1871": {
+    "value": 6,
+    "type": "int"
+  },
+  "1874": {
+    "value": 2,
+    "type": "int"
+  },
+  "1877": {
+    "value": -1,
+    "type": "int"
+  },
+  "1878": {
+    "value": 1,
+    "type": "int"
+  },
+  "1880": {
+    "value": "1-4c<0 \\Rightarrow c> \\frac{1}{4}$",
+    "type": "math_expression"
+  },
+  "1881": {
+    "value": 20000,
+    "type": "int"
+  },
+  "1882": {
+    "value": 15,
+    "type": "int"
+  },
+  "1884": {
+    "value": 40,
+    "type": "int"
+  },
+  "1885": {
+    "value": "49x^2+14x(19-7x)+(19-7x)^2 = 49x^2 + 14x \\cdot 19 - 14x \\cdot 7x + (19^2 - 2 \\cdot 19 \\cdot 7x + (7x)^2) = 49x^2 + 266x - 98x^2 + 361 - 266x + 49x^2 = (49x^2 - 98x^2 + 49x^2) + (266x - 266x) + 361 = 0x^2 + 0x + 361 = 361$",
+    "type": "math_expression"
+  },
+  "1888": {
+    "value": "c = 4$",
+    "type": "math_expression"
+  },
+  "1889": {
+    "value": 0,
+    "type": "int"
+  },
+  "1890": {
+    "value": -13,
+    "type": "int"
+  },
+  "1891": {
+    "value": 2,
+    "type": "int"
+  }
+}
